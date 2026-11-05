@@ -121,6 +121,10 @@ On the farm, a Digimon walks the missions of its card in order, then fights the 
 ### Online battles (phone)
 From VPetFarm you face your team against other trainers. Battles are resolved on the server.
 
+## Error reports
+
+If an app crashes, it saves the error and sends it to the VPet server the next time it starts, so the problem can be fixed. A report has only the app version, the model of the phone or watch, the Android version and the text of the error: nothing about your account. Tokens, passwords and e-mail addresses are removed. On the phone you can turn it off in Settings, "Send error reports".
+
 ## Common problems
 
 - **The watch does not connect with adb:** turn Wi-Fi debugging off and on again; the port changes every time.
