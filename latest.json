@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 3,
-    "versionName": "0.2.1",
+    "versionCode": 4,
+    "versionName": "0.2.2",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "17d5fee70458442b90ec47563657c2392fe649604936211bc66a95e20b31b0f6",
-    "notes": "Go back a stage, scans by card, custom card requests."
+    "sha256": "5d61d63ee51bffa47d5fb7dd94ba6d8619ce5014154c07768dc0f651645fca77",
+    "notes": "Text fix on the Evolutions card."
   },
   "watch": {
     "versionCode": 18,
