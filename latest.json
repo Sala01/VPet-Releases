@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 4,
-    "versionName": "0.2.2",
+    "versionCode": 5,
+    "versionName": "0.2.3",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "5d61d63ee51bffa47d5fb7dd94ba6d8619ce5014154c07768dc0f651645fca77",
-    "notes": "Text fix on the Evolutions card."
+    "sha256": "142cf8c53a69df228f2fd774bb1c37b0f6fbdc1307c65eb94b4ed08adfb97f84",
+    "notes": "Storage shows a Digimon once, with separate frames for bracelet and watch."
   },
   "watch": {
     "versionCode": 18,
