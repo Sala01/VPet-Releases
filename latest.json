@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 6,
-    "versionName": "0.2.4",
+    "versionCode": 7,
+    "versionName": "0.2.5",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "0edcad8b94948709de0e6d0ae0339e8074a42988b4cf5c312463290476ee788d",
-    "notes": "A Digimon from a bracelet has a half purple frame in Storage."
+    "sha256": "152b9753ccebc95ea9ab6241b0f13058eefe52abdc8df09ca3371a30b215ff43",
+    "notes": "Card adventure: walk the missions of the card and beat each boss. New battle screen."
   },
   "watch": {
     "versionCode": 18,
