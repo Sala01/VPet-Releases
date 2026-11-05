@@ -1,117 +1,131 @@
-# VPet: granja de Digimon para el teléfono y el reloj
+# VPet (VitalPet): a Digimon farm for your phone and your watch
 
-Proyecto de fans, gratuito y sin fines de lucro. Dos apps y un servidor:
+A free, non-profit fan project. Two apps and a server:
 
-| Pieza | Qué es | Archivo |
+| Piece | What it is | File |
 |---|---|---|
-| **VPetFarm** | App de Android para el teléfono: tu granja, tus Digimon, tu cuenta | `VPetFarm-telefono.apk` |
-| **VPetWear** | App de Wear OS para el reloj: tu Digimon camina, entrena y pelea contigo | `VPetWear-reloj.apk` |
-| **Servidor** | Guarda tu progreso y arbitra las batallas (ya está en línea, no instalas nada) | — |
+| **VPetFarm** | Android phone app: your farms, your Digimon, your account, online battles | `VPetFarm-telefono.apk` |
+| **VPetWear** | Wear OS watch app: your Digimon walks, trains and fights with you | `VPetWear-reloj.apk` |
+| **Server** | Keeps your progress and referees the battles (already online, nothing to install) | none |
 
-El progreso vive en el servidor: si cambias de teléfono o de reloj, tus Digimon siguen en tu cuenta.
+Your progress lives on the server: if you change phone or watch, your Digimon stay on your account. The apps are in English.
 
-Los instaladores están en [Releases](../../releases/latest). **Solo hay que instalar a mano la primera vez**: después las dos apps se actualizan solas (ver más abajo).
+The installers are in [Releases](../../releases/latest). **You only install by hand the first time**: after that both apps update themselves (see below).
 
-## Instalación
+> **Heads up:** for now the server runs on a home NAS. If the power or the internet goes out at my house, the game can be offline for a while or lose connection. News and outages are posted on the Discord.
 
-### Teléfono (VPetFarm)
-1. Descarga `VPetFarm-telefono.apk` desde [Releases](../../releases/latest) en el teléfono y ábrelo.
-2. Android pedirá permiso para instalar apps de esa fuente: acéptalo.
-3. Si tenías una versión anterior firmada con otra llave (VBHelper original o una versión de prueba), desinstálala primero.
+## Features
 
-### Reloj (VPetWear)
-El reloj no usa tienda: se instala desde una computadora con `adb`.
+### Phone (VPetFarm)
+- **Farms:** raise your Digimon on one or more farms. Build training objects, buy boosts and items with coins.
+- **Six stats:** HP, MP, ATK, DEF, SPD and BRN, plus levels, mood, personality and the blue and white bonus points.
+- **Walking matters:** your steps level up your tamer, your farms and your team.
+- **Evolutions follow the cards:** each Digimon evolves by the rules of its DIM/BEM card (time, vitals, trophies, fights, win rate and adventure missions). You can also take a Digimon back one stage.
+- **Online battles:** an attack team and a defence team of 3. Give orders each round (attack, special, guard) and climb the monthly rankings. Defence teams fight for you while you are away.
+- **Scans:** every Digimon of a card you fight fills that card's scan. At 100% you can make the card's Baby I; anything above 100% adds bonus stat points.
+- **Card adventure:** each card has missions. Walk the steps, beat the boss, earn coins and experience, and unlock the evolutions that ask for the adventure.
+- **Dex and cards:** import your own DIM/BEM cards and see your collection, scans and adventure progress per card.
+- **Custom cards:** upload a card on the website, sign in with Discord, and once approved its Digimon join the game for everybody.
 
-1. En el reloj: Ajustes, Acerca del reloj, Software, y toca 7 veces "Número de compilación".
-2. En Opciones de desarrollador activa **Depuración ADB** y **Depuración por Wi-Fi**.
-3. En la computadora, con el reloj en la misma red Wi-Fi:
+### Watch (VPetWear)
+- Send a Digimon from your farm to your Wear OS watch.
+- Every step is a chance to meet wild Digimon of its stage. You fight them, they give experience and your scans grow.
+- Training exercises (crunch, punch, dash, squat), the card's adventure missions and evolution by the card's rules.
+- Everything is reported to your farm.
+
+### With your Vital Bracelet
+- Read your bracelet over NFC and bring its Digimon to the farm with its vitals, trophies, fights, age and time to evolve.
+- Send it back whenever you want. What it earned on the farm (levels, training, blue and white points) is kept for when it returns.
+- The card adventure missions are kept the same between the bracelet, the watch and the farm.
+
+## Installation
+
+### Phone (VPetFarm)
+1. Download `VPetFarm-telefono.apk` from [Releases](../../releases/latest) on the phone and open it.
+2. Android asks for permission to install apps from that source: accept.
+3. If you had an older version signed with another key (the original VBHelper or a test build), uninstall it first.
+
+### Watch (VPetWear)
+The watch has no store: it is installed from a computer with `adb`.
+
+1. On the watch: Settings, About watch, Software, and tap "Build number" 7 times.
+2. In Developer options turn on **ADB debugging** and **Debug over Wi-Fi**.
+3. On the computer, with the watch on the same Wi-Fi network:
 
 ```
-adb pair <ip>:<puerto de emparejamiento>
-adb connect <ip>:<puerto>
+adb pair <ip>:<pairing port>
+adb connect <ip>:<port>
 adb install -r VPetWear-reloj.apk
 ```
 
-4. En el reloj abre la información de la app VPetWear y concede los permisos: notificaciones, actividad física y sensores corporales.
+4. On the watch open the app info for VPetWear and grant the permissions: notifications, physical activity and body sensors.
 
-La app del reloj ya trae su firmware y sus fondos: no hay que importar nada para que arranque.
+The watch app already includes its firmware and backgrounds: there is nothing to import for it to start.
 
-## Actualizaciones automáticas
+## Automatic updates
 
-Las dos apps buscan versiones nuevas en este repositorio, en el archivo `latest.json`:
+Both apps look for new versions in this repository, in the `latest.json` file:
 
-- **Cuándo:** al abrir la app, como máximo una vez cada 6 horas. También a mano: en el teléfono, Ajustes, "App updates"; en el reloj, Ajustes, "UPDATES".
-- **Qué hacen:** si hay una versión más nueva te la ofrecen una vez; al aceptar, descargan el APK, comprueban que es el archivo anunciado (SHA-256) y Android te pide confirmar la instalación.
-- **Primera vez:** Android pide permitir que la app instale otras apps ("Instalar apps desconocidas"). Se concede una sola vez.
-- **Solo funciona entre versiones firmadas con la misma llave**, que son las de este repositorio.
+- **When:** when the app opens, at most once every 6 hours. Also by hand: on the phone, Settings, "App updates"; on the watch, Settings, "UPDATES".
+- **What they do:** if there is a newer version they offer it once. When you accept, they download the APK, check it is the announced file (SHA-256) and Android asks you to confirm the install.
+- **First time:** Android asks to allow the app to install other apps ("Install unknown apps"). You grant it once.
+- **It only works between versions signed with the same key**, which are the ones in this repository.
 
-Quien publique una versión nueva debe subir los APK a un release con los nombres `VPetFarm-telefono.apk` y `VPetWear-reloj.apk`, y actualizar `latest.json` con el número de versión, la dirección de descarga y el SHA-256 de cada archivo.
+Whoever publishes a new version must upload the APKs to a release named `VPetFarm-telefono.apk` and `VPetWear-reloj.apk`, and update `latest.json` with the version number, the download address and the SHA-256 of each file.
 
-## Primeros pasos
+## Getting started
 
-1. Abre **VPetFarm** y crea tu cuenta con tu correo. La app envía un código para confirmarlo; si olvidas la contraseña, otro código la recupera.
-2. Elige o consigue tu primer Digimon en la granja.
-3. Envía tu Digimon al reloj desde la granja. El reloj descarga la Card que necesita desde el servidor, sin pasar por Bluetooth.
-4. Camina. Los pasos que cuenta el reloj (y la app, aun cerrada) son el combustible de todo lo demás.
+1. Open **VPetFarm** and create your account with your e-mail. The app sends a code to confirm it; if you forget the password, another code recovers it.
+2. Pick or get your first Digimon on the farm.
+3. Send your Digimon to the watch from the farm. The watch downloads the card it needs from the server, with no Bluetooth transfer.
+4. Walk. The steps counted by the watch (and by the app, even when closed) fuel everything else.
 
-## Cómo funciona
+## How it works
 
-### Pasos y puntos azules
-- Cada **1000 pasos** dan **10 puntos azules** repartidos en las estadísticas.
-- Cada estadística tiene un tope de **200** puntos azules.
-- No hay límite diario de pasos, pero sí un ritmo máximo humano para evitar trampas.
+### Steps and blue points
+- Every **1000 steps** give **10 blue points** spread over the stats.
+- Each stat caps at **200** blue points.
+- There is no daily step limit, but there is a maximum human pace to prevent cheating.
 
-### Estadísticas y rango
-- Cada Digimon tiene seis estadísticas (entre ellas HP, MP, ataque, defensa y velocidad).
-- El **rango D a S** se calcula con la parte de los puntos azules ya conseguidos sobre el máximo posible. Se ve en la app y en el reloj.
-- El reloj muestra las mismas estadísticas que la app, y son las que cuentan en las batallas.
+### Stats and rank
+- Every Digimon has six stats (HP, MP, attack, defence, speed and brains).
+- The **rank D to S** is the share of blue points already earned out of the maximum possible. It shows in the app and on the watch.
+- The watch shows the same stats as the app, and they are the ones that count in battles.
 
-### Entrenamiento en el reloj
-Cada sesión de entrenamiento (abdominales, golpes, carrera, sentadillas) da **10 puntos azules al azar** entre las estadísticas, con el máximo de 200 por estadística. El reloj avisa al servidor aunque en ese momento no haya conexión.
+### Training on the watch
+Each training session (crunch, punch, dash, squat) gives **10 random blue points** among the stats, up to 200 per stat. The watch tells the server even when there is no connection at that moment.
 
-### Humor y personalidad
-- El **humor** va de 0 a 100: sube 10 con cada victoria y baja 10 con cada derrota.
-  - Humor alto (más de 70): más experiencia y más ataque y velocidad en combate.
-  - Humor bajo (20 o menos): menos experiencia y menos ataque y velocidad.
-- La **personalidad** (feroz, firme, calmada o astuta) viene con el Digimon y decide qué tan seguido usa su ataque especial y cuánto se cubre.
+### Mood and personality
+- **Mood** goes from 0 to 100: it rises 10 with every win and drops 10 with every loss.
+  - High mood (over 70): more experience and more attack and speed in combat.
+  - Low mood (20 or less): less experience and less attack and speed.
+- **Personality** (fierce, steady, calm or tricky) comes with the Digimon and decides how often it uses its special attack and how much it guards.
 
-### Encuentros y peleas en el reloj
-- Cada paso suma **0.1 %** a la probabilidad de encontrar un Digimon salvaje. Esa probabilidad se acumula, y a los 1000 pasos sin encuentro hay uno seguro. Tras cada encuentro la cuenta vuelve a cero.
-- La pelea es automática, uno contra uno: los ataques cruzan la pantalla, el rival recibe el golpe o lo esquiva y el ataque sigue de largo detrás de él.
-- Ganes o pierdas, el escáner sube **5 %**.
-- Un rival nunca es de una etapa mayor que la de tu equipo.
+### Encounters and fights on the watch
+- Every step adds **0.1%** to the chance of meeting a wild Digimon. The chance builds up, and after 1000 steps without a meeting there is a sure one. After each meeting the count starts again.
+- The fight is automatic, one on one: attacks cross the screen, the rival takes the hit or dodges it and the attack flies on behind it.
+- Win or lose, the scan goes up **5%**.
+- A rival is never of a higher stage than your team.
 
-### Evolución
-- El Digimon evoluciona cuando cumple las reglas de su Card (tiempo, vitales, victorias y demás) **y** el nivel de tamer permite esa etapa.
-- Si se cumple en el reloj, evoluciona allí mismo y el reloj avisa al servidor.
+### Evolution
+- A Digimon evolves when it meets the rules of its card (time, vitals, wins and so on) **and** the tamer level allows that stage.
+- If it is met on the watch, it evolves right there and the watch tells the server.
 
-### Aventura
-Desde el menú del reloj eliges una zona de la Card, ves la meta de pasos y el jefe, y caminas hasta llegar. Puedes detenerla en cualquier momento. Se desbloquea a partir de la etapa Rookie.
+### Card adventure
+On the farm, a Digimon walks the missions of its card in order, then fights the boss with the numbers the card gives it. Winning pays coins and experience and opens the next mission. On the watch you pick a zone of the card, see the step goal and the boss, and walk until you get there. The missions done are shared between the bracelet, the watch and the farm, and they open the evolutions that ask for the adventure.
 
-### Batallas en línea (teléfono)
-Desde VPetFarm enfrentas a tu equipo contra otros entrenadores. Las batallas se resuelven en el servidor.
+### Online battles (phone)
+From VPetFarm you face your team against other trainers. Battles are resolved on the server.
 
-## Problemas frecuentes
+## Common problems
 
-- **El reloj no se conecta con adb:** vuelve a activar la depuración por Wi-Fi; el puerto cambia cada vez.
-- **No me deja instalar:** desinstala la versión anterior; Android no permite reemplazar una app firmada con otra llave.
-- **Los pasos no suben con la app cerrada:** en el teléfono quita la restricción de batería a VPetFarm.
-- **El reloj dice "Send one from your phone's farm":** aún no hay Digimon en el reloj; envíalo desde la granja.
+- **The watch does not connect with adb:** turn Wi-Fi debugging off and on again; the port changes every time.
+- **It will not let me install:** uninstall the previous version; Android does not allow replacing an app signed with another key.
+- **Steps do not go up when the app is closed:** on the phone remove the battery restriction for VPetFarm.
+- **The watch says "Send one from your phone's farm":** there is no Digimon on the watch yet; send one from the farm.
 
-## Créditos y licencias
+## Credits and licenses
 
-VPetWear y VPetFarm son versiones modificadas de **VitalWear** (Christopher O'Grady, cfogrady) y **VBHelper** (nacabaro), ambos con licencia MIT. Gracias a todas las personas que investigaron el Vital Bracelet y a las que hicieron posibles esas bases.
+VPetWear and VPetFarm are modified versions of **VitalWear** (Christopher O'Grady, cfogrady) and **VBHelper** (nacabaro), both under the MIT license. Thanks to everyone who researched the Vital Bracelet and made those foundations possible.
 
-Vital Bracelet, DIM, BEM y Digimon son marcas de Bandai. Este es un proyecto de fans, sin relación con Bandai ni respaldado por ella, y no se distribuye en tiendas de apps. El firmware, los sprites y los fondos que traen los instaladores son contenido de Bandai y se incluyen bajo responsabilidad del mantenedor. Más detalles en [CREDITS.md](CREDITS.md), [LICENSE-VitalWear.txt](LICENSE-VitalWear.txt) y [LICENSE-VBHelper.txt](LICENSE-VBHelper.txt).
-
----
-
-# English summary
-
-**VPet** is a free fan project: **VPetFarm** (Android phone app) and **VPetWear** (Wear OS app), backed by an online server that keeps your progress and referees the fights.
-
-- **Updates:** both apps check `latest.json` in this repository when they open (at most every 6 hours) and offer the new version; you only install by hand once.
-- **Phone:** open `VPetFarm-telefono.apk` from Releases and allow installs from that source.
-- **Watch:** enable developer options, then `adb pair`, `adb connect`, `adb install -r VPetWear-reloj.apk`, and grant its permissions.
-- **Start:** create an account in VPetFarm (the e-mail is confirmed with a code), get a Digimon, send it to the watch and walk.
-- **Rules:** 1000 steps give 10 blue points (cap 200 per stat); each training session gives 10 random blue points; each step adds 0.1 % to the wild encounter chance (a sure meeting at 1000 steps); wins raise mood by 10 and losses lower it by 10; the rank goes from D to S; evolution follows the card's rules and the tamer level.
+Vital Bracelet, DIM, BEM and Digimon are trademarks of Bandai. This is a fan project, not affiliated with or endorsed by Bandai, and it is not distributed in app stores. The firmware, sprites and backgrounds that come with the installers are Bandai content and are included under the maintainer's responsibility. More details in [CREDITS.md](CREDITS.md), [LICENSE-VitalWear.txt](LICENSE-VitalWear.txt) and [LICENSE-VBHelper.txt](LICENSE-VBHelper.txt).
