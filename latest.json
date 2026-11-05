@@ -1,0 +1,16 @@
+{
+  "phone": {
+    "versionCode": 2,
+    "versionName": "0.2.0",
+    "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
+    "sha256": "73b64e42b151cdccfaf3f1a6b4d33a1834c1560320c3fa1885743d3c98bf24ee",
+    "notes": "First version with automatic updates."
+  },
+  "watch": {
+    "versionCode": 18,
+    "versionName": "0.2.0",
+    "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
+    "sha256": "0c77aa6c1ff4ee228a6ef53e0b56a81a11628981f3dcf03ec6014d55a0a98c3e",
+    "notes": "First version with automatic updates."
+  }
+}
