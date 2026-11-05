@@ -1,16 +1,16 @@
 {
   "phone": {
-    "versionCode": 8,
-    "versionName": "0.2.6",
+    "versionCode": 10,
+    "versionName": "0.2.8",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "b34258e3e77c7dbf83cda91f62e63ae8434bd8aef09f7b1fd3be195f1f12e4c1",
-    "notes": "The Dex shows the scan and the adventure of each card; the adventure card is easier to find on the farm."
+    "sha256": "6a71a8d31ee4feeea0a6713eade1ffff9fdb30b56e815bcdd0b68af23da2896f",
+    "notes": "Card adventure missions are the same on the bracelet, the watch and the farm; what a Digimon earns on the farm is kept when it goes back to a bracelet; the watch and the farm share vitals."
   },
   "watch": {
-    "versionCode": 18,
-    "versionName": "0.2.0",
+    "versionCode": 19,
+    "versionName": "0.2.1",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "0c77aa6c1ff4ee228a6ef53e0b56a81a11628981f3dcf03ec6014d55a0a98c3e",
-    "notes": "First version with automatic updates."
+    "sha256": "34d8303915a7ae3109cac68ffa7519cb53d0653ee2e9b021f6243f9e74f3bb43",
+    "notes": "The watch shares its adventure missions and vitals with the farm."
   }
 }
