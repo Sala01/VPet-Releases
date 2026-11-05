@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 7,
-    "versionName": "0.2.5",
+    "versionCode": 8,
+    "versionName": "0.2.6",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "152b9753ccebc95ea9ab6241b0f13058eefe52abdc8df09ca3371a30b215ff43",
-    "notes": "Card adventure: walk the missions of the card and beat each boss. New battle screen."
+    "sha256": "b34258e3e77c7dbf83cda91f62e63ae8434bd8aef09f7b1fd3be195f1f12e4c1",
+    "notes": "The Dex shows the scan and the adventure of each card; the adventure card is easier to find on the farm."
   },
   "watch": {
     "versionCode": 18,
