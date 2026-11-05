@@ -14,6 +14,10 @@ The installers are in [Releases](../../releases/latest). **You only install by h
 
 > **Heads up:** for now the server runs on a home NAS. If the power or the internet goes out at my house, the game can be offline for a while or lose connection. News and outages are posted on the Discord.
 
+## Support the project
+
+The game is free and always will be. If you would like to help make the server more reliable (a battery backup, a backup internet connection, solar panels with a battery and, in the end, satellite internet), you can leave an optional donation at **https://buymeacoffee.com/vitalpet**. Donations give no gameplay advantages.
+
 ## Features
 
 ### Phone (VPetFarm)
