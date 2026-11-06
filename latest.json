@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 15,
-    "versionName": "0.3.3",
+    "versionCode": 16,
+    "versionName": "0.3.4",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "ad16487b6dc451dd4d0ad7bc463d16911700accaad60d2cf2e5f52e9eb7d892e",
-    "notes": "Fix: phones without Wear OS services no longer crash when sending to the watch."
+    "sha256": "dc2f75386a2dbebe73ca2a23ca4086e6ba3e28600b736b4c2eed8b8dcdd944c1",
+    "notes": "Requires Android 13 or newer (older versions crashed when importing cards). Custom card requests show each Digimon picture."
   },
   "watch": {
     "versionCode": 23,
