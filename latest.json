@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 13,
-    "versionName": "0.3.1",
+    "versionCode": 14,
+    "versionName": "0.3.2",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "312c15155fc1263c5e690c9f94c3bbf37adcd317685672e560f00ccf93bd44c0",
-    "notes": "Fix: cards can be imported on Android 12 and older."
+    "sha256": "e41af5f4e84b4c1702201582d3a35ec3b22e45bb7d4571ccaa288c014055b04f",
+    "notes": "Settings > About opens the website."
   },
   "watch": {
     "versionCode": 22,
