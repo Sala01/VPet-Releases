@@ -1,5 +1,7 @@
 # VPet (VitalPet): a Digimon farm for your phone and your watch
 
+> **Built on [VB Helper](https://github.com/nacabaro/vbhelper) by nacabaro and [VitalWear](https://github.com/cfogrady/VitalWear) by cfogrady**, with the work of many contributors. See [CREDITS.md](CREDITS.md).
+
 A free, non-profit fan project. Two apps and a server:
 
 | Piece | What it is | File |
