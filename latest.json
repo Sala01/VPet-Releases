@@ -1,16 +1,16 @@
 {
   "phone": {
-    "versionCode": 12,
-    "versionName": "0.3.0",
+    "versionCode": 13,
+    "versionName": "0.3.1",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "e38189a438ca6be43b3b50420bcefbaed7da6b2b2cd69ad01e6ab78fcbd0b598",
-    "notes": "Spanish and Portuguese. Choose the language in Settings."
+    "sha256": "312c15155fc1263c5e690c9f94c3bbf37adcd317685672e560f00ccf93bd44c0",
+    "notes": "Fix: cards can be imported on Android 12 and older."
   },
   "watch": {
-    "versionCode": 21,
-    "versionName": "0.3.0",
+    "versionCode": 22,
+    "versionName": "0.3.1",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "c0e812cf022adec5e593ea8e693278b64754ed30e127e88321e6bd5fc3d93a75",
-    "notes": "Spanish and Portuguese. Choose the language in Settings."
+    "sha256": "d4e702f63ca86a91f66837f824caffce7af6c90959f069aa372b2959953b94a4",
+    "notes": "Fix: cards can be imported on Android 12 and older."
   }
 }
