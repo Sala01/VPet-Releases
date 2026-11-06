@@ -1,16 +1,16 @@
 {
   "phone": {
-    "versionCode": 14,
-    "versionName": "0.3.2",
+    "versionCode": 15,
+    "versionName": "0.3.3",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "e41af5f4e84b4c1702201582d3a35ec3b22e45bb7d4571ccaa288c014055b04f",
-    "notes": "Settings > About opens the website."
+    "sha256": "ad16487b6dc451dd4d0ad7bc463d16911700accaad60d2cf2e5f52e9eb7d892e",
+    "notes": "Fix: phones without Wear OS services no longer crash when sending to the watch."
   },
   "watch": {
-    "versionCode": 22,
-    "versionName": "0.3.1",
+    "versionCode": 23,
+    "versionName": "0.3.2",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "d4e702f63ca86a91f66837f824caffce7af6c90959f069aa372b2959953b94a4",
-    "notes": "Fix: cards can be imported on Android 12 and older."
+    "sha256": "bd17af8ec8d830243ca16ea1283ffedebaf403b2795cae3b97e0f5cbad63c3f0",
+    "notes": "Fix: adventure zone screen no longer crashes."
   }
 }
