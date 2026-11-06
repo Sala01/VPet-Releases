@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 16,
-    "versionName": "0.3.4",
+    "versionCode": 17,
+    "versionName": "0.3.5",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "dc2f75386a2dbebe73ca2a23ca4086e6ba3e28600b736b4c2eed8b8dcdd944c1",
-    "notes": "Requires Android 13 or newer (older versions crashed when importing cards). Custom card requests show each Digimon picture."
+    "sha256": "a19779319b98fe73bf4f2231b74658c70cb9b421177411c9bf5146714771d522",
+    "notes": "Boss fights are now played on the battle field, round by round: you choose attack, special or guard (or Auto). One-on-one fights show both Digimon in the center. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 23,
