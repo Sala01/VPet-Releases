@@ -12,6 +12,8 @@ Your progress lives on the server: if you change phone or watch, your Digimon st
 
 The installers are in [Releases](../../releases/latest). **You only install by hand the first time**: after that both apps update themselves (see below).
 
+**Website and guides:** https://vpet.utopicflow.com
+
 > **Heads up:** for now the server runs on a home NAS. If the power or the internet goes out at my house, the game can be offline for a while or lose connection. News and outages are posted on the Discord.
 
 ## Support the project
