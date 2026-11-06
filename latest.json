@@ -1,16 +1,16 @@
 {
   "phone": {
-    "versionCode": 10,
-    "versionName": "0.2.8",
+    "versionCode": 11,
+    "versionName": "0.2.9",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "6a71a8d31ee4feeea0a6713eade1ffff9fdb30b56e815bcdd0b68af23da2896f",
-    "notes": "Card adventure missions are the same on the bracelet, the watch and the farm; what a Digimon earns on the farm is kept when it goes back to a bracelet; the watch and the farm share vitals."
+    "sha256": "90962e092d2197c28728cac25db2bf4348fcbb2f6bd2adf3952c05ccae7af628",
+    "notes": "Error reports (can be turned off in Settings) and a fix for the Send to watch button."
   },
   "watch": {
-    "versionCode": 19,
-    "versionName": "0.2.1",
+    "versionCode": 20,
+    "versionName": "0.2.2",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "34d8303915a7ae3109cac68ffa7519cb53d0653ee2e9b021f6243f9e74f3bb43",
-    "notes": "The watch shares its adventure missions and vitals with the farm."
+    "sha256": "1f7c6f5a9456cde999a3d52bcab7d47ed12a3bc01feed23d47dcc0a728b26f56",
+    "notes": "Error reports."
   }
 }
