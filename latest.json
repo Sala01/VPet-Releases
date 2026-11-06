@@ -1,16 +1,16 @@
 {
   "phone": {
-    "versionCode": 11,
-    "versionName": "0.2.9",
+    "versionCode": 12,
+    "versionName": "0.3.0",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "90962e092d2197c28728cac25db2bf4348fcbb2f6bd2adf3952c05ccae7af628",
-    "notes": "Error reports (can be turned off in Settings) and a fix for the Send to watch button."
+    "sha256": "e38189a438ca6be43b3b50420bcefbaed7da6b2b2cd69ad01e6ab78fcbd0b598",
+    "notes": "Spanish and Portuguese. Choose the language in Settings."
   },
   "watch": {
-    "versionCode": 20,
-    "versionName": "0.2.2",
+    "versionCode": 21,
+    "versionName": "0.3.0",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "1f7c6f5a9456cde999a3d52bcab7d47ed12a3bc01feed23d47dcc0a728b26f56",
-    "notes": "Error reports."
+    "sha256": "c0e812cf022adec5e593ea8e693278b64754ed30e127e88321e6bd5fc3d93a75",
+    "notes": "Spanish and Portuguese. Choose the language in Settings."
   }
 }
