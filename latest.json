@@ -1,16 +1,16 @@
 {
   "phone": {
-    "versionCode": 21,
-    "versionName": "0.3.9",
+    "versionCode": 22,
+    "versionName": "0.3.10",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "2136482ec427f604c80107db50ffc8f4a77971be9b454a5651f873627fc7f57f",
-    "notes": "Reading a bracelet now tells which card and slot it read, to help find why a wrong Digimon can show up. Requires Android 13 or newer."
+    "sha256": "a9ad1b05740ee1439a394e1eeb8903edbfdf0521bbcb993094fae4ec670b2f9f",
+    "notes": "Taking a Digimon from the watch by NFC now imports it first, and the watch lets it go only after the phone has it. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 25,
-    "versionName": "0.3.4",
+    "versionCode": 26,
+    "versionName": "0.3.5",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "9c78a9996c1c8ca3f13feaf6ba3cd870d2ef1005cfd64eb027ff14f1fa9da7e5",
-    "notes": "TRANSFER is back in the menu: send a Digimon that did not come from the farm back to the phone."
+    "sha256": "47e86fa43d308a7e3ecc4c9c6cdda856201bd4c9ff21ce2499750ddda382b32b",
+    "notes": "TRANSFER now sends and receives Digimon by NFC: hold the watch against the back of the phone, on its Scan screen. NFC has to be on in both."
   }
 }
