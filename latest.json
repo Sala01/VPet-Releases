@@ -1,16 +1,16 @@
 {
   "phone": {
-    "versionCode": 23,
-    "versionName": "0.3.11",
+    "versionCode": 24,
+    "versionName": "0.3.12",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "cd6189c13c379122be90af7f004502f09a138355a13da2c926a3a7c53232dbf3",
-    "notes": "The scan buttons now say what they do: read from a bracelet or watch, send to a bracelet or watch. Requires Android 13 or newer."
+    "sha256": "5f036f6fcb6fef7d17dc0dbd7c2b0a4fab5bb78a95c88d3f8ef0070bfe8d96a0",
+    "notes": "A Digimon sent back to its bracelet storage is rebuilt in storage if its copy was missing, instead of being lost. Custom cards written to a bracelet with the number of another card are recognised. Reading a bracelet twice no longer duplicates the Digimon. The scan buttons say bracelet. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 27,
-    "versionName": "0.3.6",
+    "versionCode": 28,
+    "versionName": "0.3.7",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "30f21bbbee72d00ac71dc67d03831eecc473d21ec8865375463657698f914736",
-    "notes": "TRANSFER now sends your partner back to the farm from the watch (TRANSFER, then BACK TO FARM), with no phone needed. A Digimon that is not of the farm still goes by NFC."
+    "sha256": "d0acd8f8c5c4460d61d2d66be4f95049dc41b176061dbfcc6528fafbb7b98a90",
+    "notes": "The watch no longer uses NFC: Digimon come from the phone and go back with TRANSFER, then BACK TO FARM."
   }
 }
