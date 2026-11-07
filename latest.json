@@ -7,10 +7,10 @@
     "notes": "New Let it go button to release a Digimon born on your farm. Failed watch transfers are now reported so they can be fixed. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 24,
-    "versionName": "0.3.3",
+    "versionCode": 25,
+    "versionName": "0.3.4",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "d3d64b8b0c6ee147c9f864f34b31f1af2475ff10cc75ffe2284f225c08247a3d",
-    "notes": "Watch face install: new WATCH FACE button in the settings, clearer steps, and help for watches that hide the install permission."
+    "sha256": "9c78a9996c1c8ca3f13feaf6ba3cd870d2ef1005cfd64eb027ff14f1fa9da7e5",
+    "notes": "TRANSFER is back in the menu: send a Digimon that did not come from the farm back to the phone."
   }
 }
