@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 24,
-    "versionName": "0.3.12",
+    "versionCode": 25,
+    "versionName": "0.3.13",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "5f036f6fcb6fef7d17dc0dbd7c2b0a4fab5bb78a95c88d3f8ef0070bfe8d96a0",
-    "notes": "A Digimon sent back to its bracelet storage is rebuilt in storage if its copy was missing, instead of being lost. Custom cards written to a bracelet with the number of another card are recognised. Reading a bracelet twice no longer duplicates the Digimon. The scan buttons say bracelet. Requires Android 13 or newer."
+    "sha256": "4b17b6dff56173e41431dd894b9dff847b350d278b7975c969378b43c8f11929",
+    "notes": "Custom cards that were updated are updated in the app without losing the Digimon you have of them. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 28,
