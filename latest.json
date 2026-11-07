@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 19,
-    "versionName": "0.3.7",
+    "versionCode": 20,
+    "versionName": "0.3.8",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "04b9037c53ac564974ba1e05a2b1540b59f9e5bb2821e5a947b00d9d7dac3cd8",
-    "notes": "Sending a Digimon imported from a card to the watch now sends its card first. The storage grid keeps its place when several Digimon are deleted. Requires Android 13 or newer."
+    "sha256": "e6b38d43cd975f943806e8c3dd312b236f283856383588d27eabccf0172d7479",
+    "notes": "New Let it go button to release a Digimon born on your farm. Failed watch transfers are now reported so they can be fixed. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 24,
