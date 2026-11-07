@@ -1,16 +1,16 @@
 {
   "phone": {
-    "versionCode": 25,
-    "versionName": "0.3.13",
+    "versionCode": 26,
+    "versionName": "0.3.14",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "4b17b6dff56173e41431dd894b9dff847b350d278b7975c969378b43c8f11929",
-    "notes": "Custom cards that were updated are updated in the app without losing the Digimon you have of them. Requires Android 13 or newer."
+    "sha256": "27077baf2d14744f6869d871792f4e7b5fe8f98ca8dbf69a79783eb5f79cf3da",
+    "notes": "Blue and white points show in the profile of each Digimon. Making a Digimon from a scan spends the scan, and what is above 100% is born as white points. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 28,
-    "versionName": "0.3.7",
+    "versionCode": 29,
+    "versionName": "0.3.8",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "d0acd8f8c5c4460d61d2d66be4f95049dc41b176061dbfcc6528fafbb7b98a90",
-    "notes": "The watch no longer uses NFC: Digimon come from the phone and go back with TRANSFER, then BACK TO FARM."
+    "sha256": "60a58e2dc9d18715f530bb12b4b66e24c1d65928b182252e7a819e51d050cad6",
+    "notes": "Each exercise gives 10 blue points to its own stat (crunches HP, punches ATK, dashes SPD, squats DEF) and the blue points show in the profile of the Digimon."
   }
 }
