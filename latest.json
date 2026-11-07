@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 20,
-    "versionName": "0.3.8",
+    "versionCode": 21,
+    "versionName": "0.3.9",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "e6b38d43cd975f943806e8c3dd312b236f283856383588d27eabccf0172d7479",
-    "notes": "New Let it go button to release a Digimon born on your farm. Failed watch transfers are now reported so they can be fixed. Requires Android 13 or newer."
+    "sha256": "2136482ec427f604c80107db50ffc8f4a77971be9b454a5651f873627fc7f57f",
+    "notes": "Reading a bracelet now tells which card and slot it read, to help find why a wrong Digimon can show up. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 25,
