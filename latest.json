@@ -1,16 +1,16 @@
 {
   "phone": {
-    "versionCode": 18,
-    "versionName": "0.3.6",
+    "versionCode": 19,
+    "versionName": "0.3.7",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "129331bedb8147f0ecacd94b06e2213c9031c60d726ee09c5e3008247938b0dd",
-    "notes": "Fix: the step counter service no longer crashes the app on some phones (Motorola). Requires Android 13 or newer."
+    "sha256": "04b9037c53ac564974ba1e05a2b1540b59f9e5bb2821e5a947b00d9d7dac3cd8",
+    "notes": "Sending a Digimon imported from a card to the watch now sends its card first. The storage grid keeps its place when several Digimon are deleted. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 23,
-    "versionName": "0.3.2",
+    "versionCode": 24,
+    "versionName": "0.3.3",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "bd17af8ec8d830243ca16ea1283ffedebaf403b2795cae3b97e0f5cbad63c3f0",
-    "notes": "Fix: adventure zone screen no longer crashes."
+    "sha256": "d3d64b8b0c6ee147c9f864f34b31f1af2475ff10cc75ffe2284f225c08247a3d",
+    "notes": "Watch face install: new WATCH FACE button in the settings, clearer steps, and help for watches that hide the install permission."
   }
 }
