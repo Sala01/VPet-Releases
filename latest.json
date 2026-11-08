@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 29,
-    "versionName": "0.4.1",
+    "versionCode": 30,
+    "versionName": "0.4.2",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "f08fcfbcd3fd1146fbe882a559dc4cf6ede4c6dfe07bb25a006e6b91d90cf1a3",
-    "notes": "New dungeon screen: the boss big in a card, what each floor pays, and a floor strip with the button below. New dungeon icon (a door). The Dex hides the cards the game switched off. Requires Android 13 or newer."
+    "sha256": "e0cb076d65e47d9d1f1cb80ff0dd583e8524e84502bede924c42b8cf3927fc80",
+    "notes": "Tap a Digimon on the farm to pet, praise or scold it, and they chat by themselves. Digimon World DS farm goods: new pictures for the objects and three type goods (Fire ring, Ball, Birdhouse) that raise the experience of the farm. Accessible mode in Settings: the tamer level grows with the experience of your Digimon instead of steps. A new look for the Digimon popups and a description of each Digimon in the Dex (the first cards for now). Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 30,
