@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 31,
-    "versionName": "0.4.3",
+    "versionCode": 32,
+    "versionName": "0.4.4",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "feac120d295e0c3bcf3ce0e15f0a90c9d8f80af93c8079b06d6b83a9641b6d53",
-    "notes": "New button in Settings to update the names and descriptions of the Digimon right away, and the app now retries when it opens without a connection. Requires Android 13 or newer."
+    "sha256": "6467a84f5c6435b603221defa9a2aa2c0defd852f8eb66004296df912adca25d",
+    "notes": "The description box of a Digimon keeps its size and scrolls when the text is longer. Descriptions of almost every Digimon are now available (they download when the app opens or from Settings). Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 30,
