@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 26,
-    "versionName": "0.3.14",
+    "versionCode": 27,
+    "versionName": "0.3.15",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "27077baf2d14744f6869d871792f4e7b5fe8f98ca8dbf69a79783eb5f79cf3da",
-    "notes": "Blue and white points show in the profile of each Digimon. Making a Digimon from a scan spends the scan, and what is above 100% is born as white points. Requires Android 13 or newer."
+    "sha256": "d3ce1ccf0b152d1f0cff056825f3dfbfdf5882a66adad79b4538a914114f6df3",
+    "notes": "Choose which Digimon appear in the farm widget: Settings, \"Digimon in the farm widget\", up to 6. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 30,
