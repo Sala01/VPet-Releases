@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 30,
-    "versionName": "0.4.2",
+    "versionCode": 31,
+    "versionName": "0.4.3",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "e0cb076d65e47d9d1f1cb80ff0dd583e8524e84502bede924c42b8cf3927fc80",
-    "notes": "Tap a Digimon on the farm to pet, praise or scold it, and they chat by themselves. Digimon World DS farm goods: new pictures for the objects and three type goods (Fire ring, Ball, Birdhouse) that raise the experience of the farm. Accessible mode in Settings: the tamer level grows with the experience of your Digimon instead of steps. A new look for the Digimon popups and a description of each Digimon in the Dex (the first cards for now). Requires Android 13 or newer."
+    "sha256": "feac120d295e0c3bcf3ce0e15f0a90c9d8f80af93c8079b06d6b83a9641b6d53",
+    "notes": "New button in Settings to update the names and descriptions of the Digimon right away, and the app now retries when it opens without a connection. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 30,
