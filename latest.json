@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 28,
-    "versionName": "0.4.0",
+    "versionCode": 29,
+    "versionName": "0.4.1",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "eb5750c24b7b13a86d7ba38f3cecd185eb7e6319af81a441c4117f0eef5761ff",
-    "notes": "Dungeons are open: Impmon's Halloween (until 6 December). Walk to charge energy, take a team of 3 into six floors, fight each floor by hand and beat the boss. Recycle bin: a Digimon you let go, or send back to a bracelet, waits 3 days and can be brought back. Blue and white points show in the profile, the farm widget lets you choose its Digimon. Requires Android 13 or newer."
+    "sha256": "f08fcfbcd3fd1146fbe882a559dc4cf6ede4c6dfe07bb25a006e6b91d90cf1a3",
+    "notes": "New dungeon screen: the boss big in a card, what each floor pays, and a floor strip with the button below. New dungeon icon (a door). The Dex hides the cards the game switched off. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 30,
