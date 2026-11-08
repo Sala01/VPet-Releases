@@ -7,10 +7,10 @@
     "notes": "Blue and white points show in the profile of each Digimon. Making a Digimon from a scan spends the scan, and what is above 100% is born as white points. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 29,
-    "versionName": "0.3.8",
+    "versionCode": 30,
+    "versionName": "0.3.9",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "60a58e2dc9d18715f530bb12b4b66e24c1d65928b182252e7a819e51d050cad6",
-    "notes": "Each exercise gives 10 blue points to its own stat (crunches HP, punches ATK, dashes SPD, squats DEF) and the blue points show in the profile of the Digimon."
+    "sha256": "134ad577c7384ebcf65e056a095d45305733a50c1404bea4887f8a2d0fafb1ad",
+    "notes": "Wild Digimon now appear after a few hundred steps, not a few dozen: each step has a 0.1% chance, and steps taken while asleep or during a pending meeting no longer count."
   }
 }
