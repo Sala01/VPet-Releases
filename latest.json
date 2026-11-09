@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 32,
-    "versionName": "0.4.4",
+    "versionCode": 33,
+    "versionName": "0.4.5",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "6467a84f5c6435b603221defa9a2aa2c0defd852f8eb66004296df912adca25d",
-    "notes": "The description box of a Digimon keeps its size and scrolls when the text is longer. Descriptions of almost every Digimon are now available (they download when the app opens or from Settings). Requires Android 13 or newer."
+    "sha256": "1c950079a97c688de6c9b7e8ab01469d21a45dd6f0bba92e73ae0a9b282cb2fd",
+    "notes": "Fixes the app crashing at start with a database imported from the original app and a crash when writing a Digimon to the bracelet; a Digimon from the recycle bin can go back to the bracelet storage; Breakdramon name fixed; new Fights today counter; accessible mode can be switched once every 24 hours. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 30,
