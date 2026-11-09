@@ -7,10 +7,10 @@
     "notes": "The Digital World is open: walk the floors, meet wild Digimon and beat the co-op floor bosses with two more players (bots fill the seats). Accessible mode now has one source, time: walking does not count. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 31,
-    "versionName": "0.3.10",
+    "versionCode": 32,
+    "versionName": "0.3.11",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "31c996cef86146868d2c29f441d8e4a0a85905f7b1d310d16769b8cc3594e759",
-    "notes": "Training repeats by itself until the daily limit (tap to stop, or switch Repeat off), every training screen has the look of the app, and the vitals complication of the watch face no longer crashes above 9999."
+    "sha256": "ee0cda5837f9289b7ae2ddbc01008bdb8f6d3619140bd9aa97e1f3309a8ab885",
+    "notes": "More wild Digimon on the watch: a 0.2% chance of a meeting every step and one for sure after 500 steps, and the watch downloads the pictures of 24 wild Digimon at once so it keeps variety without internet."
   }
 }
