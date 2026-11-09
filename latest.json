@@ -1,16 +1,16 @@
 {
   "phone": {
-    "versionCode": 37,
-    "versionName": "0.4.9",
+    "versionCode": 38,
+    "versionName": "0.4.10",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "ed7b4f1e94006a32f00b2721cd1ae13b9fa09d453b0a080e790859daeb18249d",
-    "notes": "The names of small Digimon (Baby I and II) no longer show as an empty box in battle, and the Digimon of a team has the same look as in the Farm, with its blue and white points shown. Requires Android 13 or newer."
+    "sha256": "57780c296a6d3b59ef3cceb709924f60c084c710e4ffe3060715280c6a9a85bc",
+    "notes": "A new button in the Card adventure box starts the adventure of a Digimon over, with a confirmation. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 35,
-    "versionName": "0.3.14",
+    "versionCode": 36,
+    "versionName": "0.3.15",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "ca2943218f1b65210382dc1de5cf491ab47d9e3cc6d13724e19085da06092c18",
-    "notes": "Wild fights no longer pause when the watch goes to sleep, and the card adventure belongs to each Digimon: the watch reports the missions of the Digimon it carries."
+    "sha256": "63fe4c0f82a77787d10a68438b861b4f355fcb14c004b31365eb5de68350f02f",
+    "notes": "The watch tells the farm that its adventure missions are those of its own Digimon, so a new Digimon no longer gets the progress of the whole card."
   }
 }
