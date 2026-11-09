@@ -7,10 +7,10 @@
     "notes": "A Digimon sent back to the bracelet storage comes back as the Digimon it really is (it could come back as a Dokimon); in accessible mode the farms now grow with time too. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 30,
-    "versionName": "0.3.9",
+    "versionCode": 31,
+    "versionName": "0.3.10",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "134ad577c7384ebcf65e056a095d45305733a50c1404bea4887f8a2d0fafb1ad",
-    "notes": "Wild Digimon now appear after a few hundred steps, not a few dozen: each step has a 0.1% chance, and steps taken while asleep or during a pending meeting no longer count."
+    "sha256": "31c996cef86146868d2c29f441d8e4a0a85905f7b1d310d16769b8cc3594e759",
+    "notes": "Training repeats by itself until the daily limit (tap to stop, or switch Repeat off), every training screen has the look of the app, and the vitals complication of the watch face no longer crashes above 9999."
   }
 }
