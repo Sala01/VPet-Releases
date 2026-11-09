@@ -1,16 +1,16 @@
 {
   "phone": {
-    "versionCode": 36,
-    "versionName": "0.4.8",
+    "versionCode": 37,
+    "versionName": "0.4.9",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "4e2f02c5ccb25b1e29e89392e3f10bea705fb2f69e094c9eb4fe2d5e76faabb8",
-    "notes": "A new button in the Battle tab swaps your attack and defence teams in one tap. Requires Android 13 or newer."
+    "sha256": "ed7b4f1e94006a32f00b2721cd1ae13b9fa09d453b0a080e790859daeb18249d",
+    "notes": "The names of small Digimon (Baby I and II) no longer show as an empty box in battle, and the Digimon of a team has the same look as in the Farm, with its blue and white points shown. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 33,
-    "versionName": "0.3.12",
+    "versionCode": 34,
+    "versionName": "0.3.13",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "7d8acbc76e2edcf5ff539a02d0ce7e0f7fbe7e774a9c8b452d8ca28fe996eb21",
-    "notes": "The notice says ready to evolve instead of transformation, and the time in form shows as hours out of hours like the phone."
+    "sha256": "7ca6955445e861f75ac849be803655a38c78115de2870a09eef7d7e702fef0cb",
+    "notes": "Fixed a crash when opening the Adventure menu after Android closed the app, and the update screen explains it on watches that cannot allow installs."
   }
 }
