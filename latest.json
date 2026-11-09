@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 39,
-    "versionName": "0.4.11",
+    "versionCode": 40,
+    "versionName": "0.4.12",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "6a27385cede573f220752cbcd4ad0d7a9ab90dc0a9b568ade9dece4016a9713d",
-    "notes": "A new Discord community entry in Settings opens the Discord invite. Requires Android 13 or newer."
+    "sha256": "06ee7b9fc1faba6919a17bf66b1d3657689ddf10d7b2879fb309f8309819b682",
+    "notes": "In the Digital World the Digimon that follow you now walk with their own pictures and turn the way you go. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 36,
