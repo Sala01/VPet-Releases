@@ -7,10 +7,10 @@
     "notes": "The names of small Digimon (Baby I and II) no longer show as an empty box in battle, and the Digimon of a team has the same look as in the Farm, with its blue and white points shown. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 34,
-    "versionName": "0.3.13",
+    "versionCode": 35,
+    "versionName": "0.3.14",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "7ca6955445e861f75ac849be803655a38c78115de2870a09eef7d7e702fef0cb",
-    "notes": "Fixed a crash when opening the Adventure menu after Android closed the app, and the update screen explains it on watches that cannot allow installs."
+    "sha256": "ca2943218f1b65210382dc1de5cf491ab47d9e3cc6d13724e19085da06092c18",
+    "notes": "Wild fights no longer pause when the watch goes to sleep, and the card adventure belongs to each Digimon: the watch reports the missions of the Digimon it carries."
   }
 }
