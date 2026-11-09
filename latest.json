@@ -1,16 +1,16 @@
 {
   "phone": {
-    "versionCode": 35,
-    "versionName": "0.4.7",
+    "versionCode": 36,
+    "versionName": "0.4.8",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "8b0c26f867163cc08fe39289b3657cf165fa123a9a4cba87d6067afde2fe4c2e",
-    "notes": "The Digital World is open: walk the floors, meet wild Digimon and beat the co-op floor bosses with two more players (bots fill the seats). Accessible mode now has one source, time: walking does not count. Requires Android 13 or newer."
+    "sha256": "4e2f02c5ccb25b1e29e89392e3f10bea705fb2f69e094c9eb4fe2d5e76faabb8",
+    "notes": "A new button in the Battle tab swaps your attack and defence teams in one tap. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 32,
-    "versionName": "0.3.11",
+    "versionCode": 33,
+    "versionName": "0.3.12",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "ee0cda5837f9289b7ae2ddbc01008bdb8f6d3619140bd9aa97e1f3309a8ab885",
-    "notes": "More wild Digimon on the watch: a 0.2% chance of a meeting every step and one for sure after 500 steps, and the watch downloads the pictures of 24 wild Digimon at once so it keeps variety without internet."
+    "sha256": "7d8acbc76e2edcf5ff539a02d0ce7e0f7fbe7e774a9c8b452d8ca28fe996eb21",
+    "notes": "The notice says ready to evolve instead of transformation, and the time in form shows as hours out of hours like the phone."
   }
 }
