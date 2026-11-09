@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 34,
-    "versionName": "0.4.6",
+    "versionCode": 35,
+    "versionName": "0.4.7",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "bc252f3b0e16c269eb3b45bdf18aeaf5bd405e1a53060271695aaa99a8ff03dc",
-    "notes": "A Digimon sent back to the bracelet storage comes back as the Digimon it really is (it could come back as a Dokimon); in accessible mode the farms now grow with time too. Requires Android 13 or newer."
+    "sha256": "8b0c26f867163cc08fe39289b3657cf165fa123a9a4cba87d6067afde2fe4c2e",
+    "notes": "The Digital World is open: walk the floors, meet wild Digimon and beat the co-op floor bosses with two more players (bots fill the seats). Accessible mode now has one source, time: walking does not count. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 31,
