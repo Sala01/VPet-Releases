@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 38,
-    "versionName": "0.4.10",
+    "versionCode": 39,
+    "versionName": "0.4.11",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "57780c296a6d3b59ef3cceb709924f60c084c710e4ffe3060715280c6a9a85bc",
-    "notes": "A new button in the Card adventure box starts the adventure of a Digimon over, with a confirmation. Requires Android 13 or newer."
+    "sha256": "6a27385cede573f220752cbcd4ad0d7a9ab90dc0a9b568ade9dece4016a9713d",
+    "notes": "A new Discord community entry in Settings opens the Discord invite. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 36,
