@@ -7,10 +7,10 @@
     "notes": "Reading a bracelet no longer fails with an empty error when the card found has no slot for the Digimon: it says Card not found, reports it, and the bracelet keeps the Digimon. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 36,
-    "versionName": "0.3.15",
+    "versionCode": 37,
+    "versionName": "0.3.16",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "63fe4c0f82a77787d10a68438b861b4f355fcb14c004b31365eb5de68350f02f",
-    "notes": "The watch tells the farm that its adventure missions are those of its own Digimon, so a new Digimon no longer gets the progress of the whole card."
+    "sha256": "0456a4379c36dcf46afaf528b55f0d5c7176cb0950f8ee52a4f7df8586eee877",
+    "notes": "The trained points (PP) now go up on the watch for the Digimon you send from the farm: they were being thrown away because it had no bracelet training window."
   }
 }
