@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 50,
-    "versionName": "0.4.22",
+    "versionCode": 51,
+    "versionName": "0.4.23",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "89b9af69010759eee1de00952f1b22634931afa2272414bde963223a7f0d8493",
-    "notes": "Storage no longer has Send to watch (the watch only takes Digimon of the farm: send them from the Farm tab). A stored copy marked as on the watch can be taken back with It is not on the watch. Requires Android 13 or newer."
+    "sha256": "51a2c7d9bc9f606f43f762d42ad9ab9b4efa8e0fdf6916b7b6be1102f6e97614",
+    "notes": "The Battle tab now explains the stage limit: in fights a Digimon fights as the highest stage your tamer level allows. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 40,
