@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 48,
-    "versionName": "0.4.20",
+    "versionCode": 49,
+    "versionName": "0.4.21",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "5eb42c6dff2a5c1d688c7c7af4fe63a5a6dc8aaf2af60eec4740aed2681eaf80",
-    "notes": "Reading a bracelet can no longer lose a Digimon: the bracelet keeps it until it is really imported. Empty cards are removed automatically, and Settings has a new Repair the cards button. Requires Android 13 or newer."
+    "sha256": "017012898ff91954bc39e4ead2ad4b2383d4b6cc049ecaf21852849a038a0d28",
+    "notes": "A color key under the stats of a Digimon (orange: farm training, blue: watch training, steps and items, white: scans and inherited) and a MAX marker when a value reaches its limit. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 38,
