@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 49,
-    "versionName": "0.4.21",
+    "versionCode": 50,
+    "versionName": "0.4.22",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "017012898ff91954bc39e4ead2ad4b2383d4b6cc049ecaf21852849a038a0d28",
-    "notes": "A color key under the stats of a Digimon (orange: farm training, blue: watch training, steps and items, white: scans and inherited) and a MAX marker when a value reaches its limit. Requires Android 13 or newer."
+    "sha256": "89b9af69010759eee1de00952f1b22634931afa2272414bde963223a7f0d8493",
+    "notes": "Storage no longer has Send to watch (the watch only takes Digimon of the farm: send them from the Farm tab). A stored copy marked as on the watch can be taken back with It is not on the watch. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 39,
