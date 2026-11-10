@@ -7,10 +7,10 @@
     "notes": "The Battle tab now explains the stage limit: in fights a Digimon fights as the highest stage your tamer level allows. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 40,
-    "versionName": "0.3.19",
+    "versionCode": 42,
+    "versionName": "0.3.21",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "4d4eb129a0582d0d36909210df2774fd8c9e1e477641687f6dcaef7da17f3ed5",
-    "notes": "Less battery use: steps are handed over one by one only while the screen is on. A Digimon that did not come from the farm can be removed from the watch (Transfer, REMOVE FROM WATCH)."
+    "sha256": "9270f273eeaa0130303259f1952c2f6bbc3f66a6c84850ca2e3d28a60b43a91f",
+    "notes": "BATTLE now opens the same fight as the wild Digimon for a Digimon of the farm, counted by the farm (5 fights an hour, 5% scan). Fixed the watch closing when BATTLE was selected with a card without its battle background."
   }
 }
