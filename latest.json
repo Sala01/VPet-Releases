@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 41,
-    "versionName": "0.4.13",
+    "versionCode": 44,
+    "versionName": "0.4.16",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "7e5363e86697f52b90cd55e0228b5df71b45fe1aa3cd454912c3350d762234aa",
-    "notes": "In the Digital World the Digimon that follow you no longer disappear: they stand behind you after a room change, a fight or the boss lobby, and an empty walking picture is replaced by the standing one. Requires Android 13 or newer."
+    "sha256": "5bc5b1ae04ba4f8492e6562dfb1cd110f22f39c3b7c69f040fdb5b0990975c1d",
+    "notes": "In the Digital World the Digimon that follow you no longer disappear when you walk right, and the app no longer asks for access to all the files. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 36,
