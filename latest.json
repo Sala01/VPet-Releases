@@ -7,10 +7,10 @@
     "notes": "Reading a bracelet can no longer lose a Digimon: the bracelet keeps it until it is really imported. Empty cards are removed automatically, and Settings has a new Repair the cards button. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 37,
-    "versionName": "0.3.16",
+    "versionCode": 38,
+    "versionName": "0.3.17",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "0456a4379c36dcf46afaf528b55f0d5c7176cb0950f8ee52a4f7df8586eee877",
-    "notes": "The trained points (PP) now go up on the watch for the Digimon you send from the farm: they were being thrown away because it had no bracelet training window."
+    "sha256": "b5a25f333115add9af03a12e920fab92a0f88716ec1c3e0b35e65548a5a0abb9",
+    "notes": "Fixed the watch closing when a fight starts with a card that has no hit icons of its own: it now uses the standard ones."
   }
 }
