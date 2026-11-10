@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 44,
-    "versionName": "0.4.16",
+    "versionCode": 45,
+    "versionName": "0.4.17",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "5bc5b1ae04ba4f8492e6562dfb1cd110f22f39c3b7c69f040fdb5b0990975c1d",
-    "notes": "In the Digital World the Digimon that follow you no longer disappear when you walk right, and the app no longer asks for access to all the files. Requires Android 13 or newer."
+    "sha256": "c354d1a52d5c38bb05c893e7cd9a1772f3a48d73b53e4feaa3916ab0c430ffb7",
+    "notes": "Completing a card adventure mission now gives the Digimon 3 trophies, shown in the mission result. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 36,
