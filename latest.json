@@ -7,10 +7,10 @@
     "notes": "A color key under the stats of a Digimon (orange: farm training, blue: watch training, steps and items, white: scans and inherited) and a MAX marker when a value reaches its limit. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 38,
-    "versionName": "0.3.17",
+    "versionCode": 39,
+    "versionName": "0.3.18",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "b5a25f333115add9af03a12e920fab92a0f88716ec1c3e0b35e65548a5a0abb9",
-    "notes": "Fixed the watch closing when a fight starts with a card that has no hit icons of its own: it now uses the standard ones."
+    "sha256": "45c0d37297ae42859d43751ec8cc0017f03b6011bb8ce3ba9c48789d0fe16531",
+    "notes": "The stats on the watch now show MAX when the blue points of a stat reach their limit."
   }
 }
