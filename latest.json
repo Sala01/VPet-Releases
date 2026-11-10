@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 46,
-    "versionName": "0.4.18",
+    "versionCode": 48,
+    "versionName": "0.4.20",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "9865076ca5a0f1b05d3fae5687dc33c0e91ae30941a68d8093e1cb6fd008f022",
-    "notes": "Reading a bracelet no longer fails with an empty error when the card found has no slot for the Digimon: it says Card not found, reports it, and the bracelet keeps the Digimon. Requires Android 13 or newer."
+    "sha256": "5eb42c6dff2a5c1d688c7c7af4fe63a5a6dc8aaf2af60eec4740aed2681eaf80",
+    "notes": "Reading a bracelet can no longer lose a Digimon: the bracelet keeps it until it is really imported. Empty cards are removed automatically, and Settings has a new Repair the cards button. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 37,
