@@ -7,10 +7,10 @@
     "notes": "Storage no longer has Send to watch (the watch only takes Digimon of the farm: send them from the Farm tab). A stored copy marked as on the watch can be taken back with It is not on the watch. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 39,
-    "versionName": "0.3.18",
+    "versionCode": 40,
+    "versionName": "0.3.19",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "45c0d37297ae42859d43751ec8cc0017f03b6011bb8ce3ba9c48789d0fe16531",
-    "notes": "The stats on the watch now show MAX when the blue points of a stat reach their limit."
+    "sha256": "4d4eb129a0582d0d36909210df2774fd8c9e1e477641687f6dcaef7da17f3ed5",
+    "notes": "Less battery use: steps are handed over one by one only while the screen is on. A Digimon that did not come from the farm can be removed from the watch (Transfer, REMOVE FROM WATCH)."
   }
 }
