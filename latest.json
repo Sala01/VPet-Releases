@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 54,
-    "versionName": "0.5.1",
+    "versionCode": 55,
+    "versionName": "0.5.2",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "9b0a5c6446669c25a3065202d9989bea88e4020fc318e1b30e3091cba39a1d04",
-    "notes": "Fix: the Farm tab closed when it opened after updating to 0.5.0, and the app closed on some phones when the step sensor could not be opened. If something else breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "sha256": "fa6662ebadc1b220d9ae8b5e7e137cff96c85d4ab5d4024c1558a9c0860a4eef",
+    "notes": "New list of attacks in battle (name, level, element, damage and MP), MP rework, the boost list no longer shows boss items, and Digimon of player cards no longer have absurd speed. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 43,
