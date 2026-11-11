@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 53,
-    "versionName": "0.5.0",
+    "versionCode": 54,
+    "versionName": "0.5.1",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "86c43dad5f346039791626de7b109b737cb30e6dfc5dded966aec40482434a2d",
-    "notes": "Big rework: Time Stranger stats and damage formula, skills with 11 elements and weaknesses, SPI, skill seals, auto-play of cleared dungeon floors with tickets, nicknames, an Adventures menu, promo codes and more. If something feels unfair or breaks, tell us in #bug-reports. Requires Android 13 or newer."
+    "sha256": "9b0a5c6446669c25a3065202d9989bea88e4020fc318e1b30e3091cba39a1d04",
+    "notes": "Fix: the Farm tab closed when it opened after updating to 0.5.0, and the app closed on some phones when the step sensor could not be opened. If something else breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 43,
