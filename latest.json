@@ -1,16 +1,16 @@
 {
   "phone": {
-    "versionCode": 52,
-    "versionName": "0.4.24",
+    "versionCode": 53,
+    "versionName": "0.5.0",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "e5fe22a71737852f272ad103e5ccbf75b6355d2358b0e8806a6ac734d6b92843",
-    "notes": "Fixed sending a Digimon to the watch failing with a connection abort: the phone now waits for the watch to finish reading before closing the connection. Requires Android 13 or newer."
+    "sha256": "86c43dad5f346039791626de7b109b737cb30e6dfc5dded966aec40482434a2d",
+    "notes": "Big rework: Time Stranger stats and damage formula, skills with 11 elements and weaknesses, SPI, skill seals, auto-play of cleared dungeon floors with tickets, nicknames, an Adventures menu, promo codes and more. If something feels unfair or breaks, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 42,
-    "versionName": "0.3.21",
+    "versionCode": 43,
+    "versionName": "0.4.0",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "9270f273eeaa0130303259f1952c2f6bbc3f66a6c84850ca2e3d28a60b43a91f",
-    "notes": "BATTLE now opens the same fight as the wild Digimon for a Digimon of the farm, counted by the farm (5 fights an hour, 5% scan). Fixed the watch closing when BATTLE was selected with a card without its battle background."
+    "sha256": "c3ab8a7df65c435a3298cdfe0b2089610a0eb716e8c4965bca2c150c56ff2605",
+    "notes": "New exercises: Meditate (30 s still, INT) and Jog (30 s running, SPI), the daily training total is shown, and a fix for steps not counting for wild encounters and the farm."
   }
 }
