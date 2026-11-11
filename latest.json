@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 55,
-    "versionName": "0.5.2",
+    "versionCode": 56,
+    "versionName": "0.5.3",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "fa6662ebadc1b220d9ae8b5e7e137cff96c85d4ab5d4024c1558a9c0860a4eef",
-    "notes": "New list of attacks in battle (name, level, element, damage and MP), MP rework, the boost list no longer shows boss items, and Digimon of player cards no longer have absurd speed. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "sha256": "3b9e853c8a688336ab2e49460bea3bb4aa2f34baf667461d1faf3c6e693e5def",
+    "notes": "You can sell farm objects (all the coins back if never used, half if used), reading a bracelet asks which DIM it is every time, and a fix for Digimon of player cards. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 43,
