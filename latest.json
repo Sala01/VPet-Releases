@@ -12,5 +12,10 @@
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
     "sha256": "c3ab8a7df65c435a3298cdfe0b2089610a0eb716e8c4965bca2c150c56ff2605",
     "notes": "New exercises: Meditate (30 s still, INT) and Jog (30 s running, SPI), the daily training total is shown, and a fix for steps not counting for wild encounters and the farm."
+  },
+  "phoneStore": {
+    "versionCode": 55,
+    "versionName": "0.5.2",
+    "notes": "New list of attacks in battle (name, level, element, damage and MP), MP rework, the boost list no longer shows boss items, and Digimon of player cards no longer have absurd speed. If something breaks or feels unfair, tell us in #bug-reports."
   }
 }
