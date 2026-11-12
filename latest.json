@@ -7,11 +7,11 @@
     "notes": "You can have one adventure for each card at the same time, and every one grows with your steps. Starting one with a Digimon of another card no longer stops the one that is going. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 46,
-    "versionName": "0.4.3",
+    "versionCode": 47,
+    "versionName": "0.4.4",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "31930d567e74ec127b90664e9a197c4b286bad12eba7524ece6de86f95481e47",
-    "notes": "For the Digimon of your farm you choose the evolution yourself (an EVOLVE button on each open form), and the wild fights and vitals follow numbers the game can tune from the server. If something breaks or feels unfair, tell us in #bug-reports."
+    "sha256": "970ae9d2db9ed42d711d79160f8037d342b180ccd4456c2105c2c1546b981440",
+    "notes": "A WILD plate on the main screen and a WILD slot on the watch face show the chance of a wild meeting, growing with your steps. If the face you have does not show the new slot, install the face again from the phone. If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
     "versionCode": 58,
