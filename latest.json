@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 59,
-    "versionName": "0.5.6",
+    "versionCode": 60,
+    "versionName": "0.5.7",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "1b66a80c673e767a5e81c4f3ad3268bf4b8e693a512e616f7bb5b5aff6926620",
-    "notes": "You can have one adventure for each card at the same time, and every one grows with your steps. Starting one with a Digimon of another card no longer stops the one that is going. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "sha256": "2f8be61495d1949e7f01901849698eb6b9ab2ffa51dc5e9d69f0a49b8ff0c353",
+    "notes": "The phone answers the bracelet faster when you bring a Digimon in, which helps avoid the Tag was lost message. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 47,
