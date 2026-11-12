@@ -14,8 +14,8 @@
     "notes": "The Battle menu and the wild Digimon give and take vitals again like the bracelet battles (the ones met while walking give half). If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
-    "versionCode": 57,
-    "versionName": "0.5.4",
-    "notes": "Halloween skins (earned by beating the floors of Impmon's dungeon, chosen for each Digimon with the Skin button and seen by other players), easier dungeon bosses, fairer PvP rivals, the farm list shows who is training, and fixes for the boost list, the dungeon Back/Give up buttons and the farm animation. If something breaks or feels unfair, tell us in #bug-reports."
+    "versionCode": 58,
+    "versionName": "0.5.5",
+    "notes": "The boss of each dungeon floor is drawn with its Halloween skin and the floor tells you which skin its first win gives. If something breaks or feels unfair, tell us in #bug-reports."
   }
 }
