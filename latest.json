@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 60,
-    "versionName": "0.5.7",
+    "versionCode": 61,
+    "versionName": "0.5.8",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "2f8be61495d1949e7f01901849698eb6b9ab2ffa51dc5e9d69f0a49b8ff0c353",
-    "notes": "The phone answers the bracelet faster when you bring a Digimon in, which helps avoid the Tag was lost message. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "sha256": "ef9b659cf784585d16f3dc542c9595776d4e37c29ca94a0a97bbda00342be2c2",
+    "notes": "The app now downloads the battle art again when the server has a newer pack, so the event skins (Halloween) show up for players who already had the art. Open the app on wifi and wait a minute or two after updating. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 48,
