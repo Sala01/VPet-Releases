@@ -7,11 +7,11 @@
     "notes": "The phone answers the bracelet faster when you bring a Digimon in, which helps avoid the Tag was lost message. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 47,
-    "versionName": "0.4.4",
+    "versionCode": 48,
+    "versionName": "0.4.5",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "970ae9d2db9ed42d711d79160f8037d342b180ccd4456c2105c2c1546b981440",
-    "notes": "A WILD plate on the main screen and a WILD slot on the watch face show the chance of a wild meeting, growing with your steps. If the face you have does not show the new slot, install the face again from the phone. If something breaks or feels unfair, tell us in #bug-reports."
+    "sha256": "48d912d8f179da0969a5f1f0288cd3fb8916de4814874c780b9a9f9e2b401313",
+    "notes": "Smaller plates on the main screen (V vitals, S steps, W wild chance) that no longer cover the scene, and the training result shows the farm stats (HP, ATK, SPD, DEF) for a Digimon of the farm. Fixes a crash on some watches. If the watch face does not show the new slot, install the face again from the phone. If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
     "versionCode": 58,
