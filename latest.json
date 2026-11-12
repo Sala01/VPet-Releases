@@ -7,11 +7,11 @@
     "notes": "The boss of each dungeon floor is drawn with its Halloween skin and the floor tells you which skin its first win gives. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 45,
-    "versionName": "0.4.2",
+    "versionCode": 46,
+    "versionName": "0.4.3",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "58b06696eb5f7008c6f9892da6313124a92e9dd1b2b4ed1c42110defe55c19ee",
-    "notes": "The Battle menu and the wild Digimon give and take vitals again like the bracelet battles (the ones met while walking give half). If something breaks or feels unfair, tell us in #bug-reports."
+    "sha256": "31930d567e74ec127b90664e9a197c4b286bad12eba7524ece6de86f95481e47",
+    "notes": "For the Digimon of your farm you choose the evolution yourself (an EVOLVE button on each open form), and the wild fights and vitals follow numbers the game can tune from the server. If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
     "versionCode": 58,
