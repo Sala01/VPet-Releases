@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 58,
-    "versionName": "0.5.5",
+    "versionCode": 59,
+    "versionName": "0.5.6",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "8edf17d4781ab9d3b24578d1983c1f845be58c1e31a5b6cad38d870f03a7589e",
-    "notes": "The boss of each dungeon floor is drawn with its Halloween skin and the floor tells you which skin its first win gives. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "sha256": "1b66a80c673e767a5e81c4f3ad3268bf4b8e693a512e616f7bb5b5aff6926620",
+    "notes": "You can have one adventure for each card at the same time, and every one grows with your steps. Starting one with a Digimon of another card no longer stops the one that is going. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 46,
