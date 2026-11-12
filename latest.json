@@ -7,11 +7,11 @@
     "notes": "You can sell farm objects (all the coins back if never used, half if used), reading a bracelet asks which DIM it is every time, and a fix for Digimon of player cards. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 43,
-    "versionName": "0.4.0",
+    "versionCode": 44,
+    "versionName": "0.4.1",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "c3ab8a7df65c435a3298cdfe0b2089610a0eb716e8c4965bca2c150c56ff2605",
-    "notes": "New exercises: Meditate (30 s still, INT) and Jog (30 s running, SPI), the daily training total is shown, and a fix for steps not counting for wild encounters and the farm."
+    "sha256": "1d47e4a68670d934dbc4419a3739b2b83ee7aa59f550d8f503bae6db53c694c1",
+    "notes": "Wild fights of the watch follow the same rules as the app and the wild Digimon are closer to your strength; the training menu shows the stat each exercise raises. If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
     "versionCode": 55,
