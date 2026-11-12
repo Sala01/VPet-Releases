@@ -14,8 +14,8 @@
     "notes": "Smaller plates on the main screen (V vitals, S steps, W wild chance) that no longer cover the scene, and the training result shows the farm stats (HP, ATK, SPD, DEF) for a Digimon of the farm. Fixes a crash on some watches. If the watch face does not show the new slot, install the face again from the phone. If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
-    "versionCode": 58,
-    "versionName": "0.5.5",
-    "notes": "The boss of each dungeon floor is drawn with its Halloween skin and the floor tells you which skin its first win gives. If something breaks or feels unfair, tell us in #bug-reports."
+    "versionCode": 60,
+    "versionName": "0.5.7",
+    "notes": "The phone answers the bracelet faster when you bring a Digimon in, which helps avoid the Tag was lost message. If something breaks or feels unfair, tell us in #bug-reports."
   }
 }
