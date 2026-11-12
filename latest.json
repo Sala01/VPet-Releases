@@ -1,17 +1,17 @@
 {
   "phone": {
-    "versionCode": 56,
-    "versionName": "0.5.3",
+    "versionCode": 57,
+    "versionName": "0.5.4",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "3b9e853c8a688336ab2e49460bea3bb4aa2f34baf667461d1faf3c6e693e5def",
-    "notes": "You can sell farm objects (all the coins back if never used, half if used), reading a bracelet asks which DIM it is every time, and a fix for Digimon of player cards. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "sha256": "7bc2aa6c9bd9c6cf8e8c9296f50b03accc041830a4169542ba506ca1ef207f51",
+    "notes": "Halloween skins (earned by beating the floors of Impmon's dungeon, chosen for each Digimon with the Skin button and seen by other players), easier dungeon bosses, fairer PvP rivals, the farm list shows who is training, and fixes for the boost list, the dungeon Back/Give up buttons and the farm animation. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 44,
-    "versionName": "0.4.1",
+    "versionCode": 45,
+    "versionName": "0.4.2",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "1d47e4a68670d934dbc4419a3739b2b83ee7aa59f550d8f503bae6db53c694c1",
-    "notes": "Wild fights of the watch follow the same rules as the app and the wild Digimon are closer to your strength; the training menu shows the stat each exercise raises. If something breaks or feels unfair, tell us in #bug-reports."
+    "sha256": "58b06696eb5f7008c6f9892da6313124a92e9dd1b2b4ed1c42110defe55c19ee",
+    "notes": "The Battle menu and the wild Digimon give and take vitals again like the bracelet battles (the ones met while walking give half). If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
     "versionCode": 55,
