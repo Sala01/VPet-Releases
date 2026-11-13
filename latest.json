@@ -14,8 +14,8 @@
     "notes": "Fixes a crash that closed the app on Wear OS 4 watches when a list was drawn. The farm stats page shows SPI, and training has no daily limit per Digimon (only the 500 of the player). If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
-    "versionCode": 63,
-    "versionName": "0.5.10",
-    "notes": "New content (Digimon pictures, skins, farm objects, attack pictures, translations) now comes from the server without updating the app. Status marks in fights (poison, paralysis, sleep, chaos, injury, boosts and curses). Area skills hit every rival at once and the screen no longer goes dark on a skill. Skill seal warnings, nicknames in fights, Dex by line, and reading your tamer card no longer blocks the screen. If something breaks or feels unfair, tell us in #bug-reports."
+    "versionCode": 64,
+    "versionName": "0.5.11",
+    "notes": "White points go to the stat you choose, a 200% scan can become a White 5 (100% a White 1), a list of avatars with search and order, a new Dex with a row for each stage, swipe between farms, and bracelet reading fixes (retries and choosing a renumbered custom card). If something breaks or feels unfair, tell us in #bug-reports."
   }
 }
