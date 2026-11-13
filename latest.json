@@ -14,8 +14,8 @@
     "notes": "Fixes a crash that closed the app on Wear OS 4 watches when a list was drawn. The farm stats page shows SPI, and training has no daily limit per Digimon (only the 500 of the player). If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
-    "versionCode": 62,
-    "versionName": "0.5.9",
-    "notes": "Two new Halloween avatars, Vampire and Witch, that are given with promotional codes. When a bracelet read fails, the report now tells which chip the bracelet has so we can find the combinations that fail. If something breaks or feels unfair, tell us in #bug-reports."
+    "versionCode": 63,
+    "versionName": "0.5.10",
+    "notes": "New content (Digimon pictures, skins, farm objects, attack pictures, translations) now comes from the server without updating the app. Status marks in fights (poison, paralysis, sleep, chaos, injury, boosts and curses). Area skills hit every rival at once and the screen no longer goes dark on a skill. Skill seal warnings, nicknames in fights, Dex by line, and reading your tamer card no longer blocks the screen. If something breaks or feels unfair, tell us in #bug-reports."
   }
 }
