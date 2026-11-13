@@ -1,17 +1,17 @@
 {
   "phone": {
-    "versionCode": 62,
-    "versionName": "0.5.9",
+    "versionCode": 63,
+    "versionName": "0.5.10",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "7cb43d9d0aa7ece99849f5059184c4b7d9bc1bd0ad12bde4a4cb8c02af8bc189",
-    "notes": "Two new Halloween avatars, Vampire and Witch, that are given with promotional codes. When a bracelet read fails, the report now tells which chip the bracelet has so we can find the combinations that fail. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "sha256": "4360ed7d2929a8eaa402907bf7548f87882897b60428dab885c194a946f82d5c",
+    "notes": "New content (Digimon pictures, skins, farm objects, attack pictures, translations) now comes from the server without updating the app. Status marks in fights (poison, paralysis, sleep, chaos, injury, boosts and curses). Area skills hit every rival at once and the screen no longer goes dark on a skill. Skill seal warnings, nicknames in fights, Dex by line, and reading your tamer card no longer blocks the screen. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 48,
-    "versionName": "0.4.5",
+    "versionCode": 49,
+    "versionName": "0.4.6",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "48d912d8f179da0969a5f1f0288cd3fb8916de4814874c780b9a9f9e2b401313",
-    "notes": "Smaller plates on the main screen (V vitals, S steps, W wild chance) that no longer cover the scene, and the training result shows the farm stats (HP, ATK, SPD, DEF) for a Digimon of the farm. Fixes a crash on some watches. If the watch face does not show the new slot, install the face again from the phone. If something breaks or feels unfair, tell us in #bug-reports."
+    "sha256": "e9b3056f71cd73e4d888da5d977b4c7411ed1be263aa1b0593580a61abd40b68",
+    "notes": "Fixes a crash that closed the app on Wear OS 4 watches when a list was drawn. The farm stats page shows SPI, and training has no daily limit per Digimon (only the 500 of the player). If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
     "versionCode": 62,
