@@ -7,11 +7,11 @@
     "notes": "Fixes for BE bracelets: the rank of a Digimon read from a BE bracelet was saved wrongly and went back to the bracelet wrong (maybe behind the E20 error when sending a trained Digimon back). It is now worked out again from the training and the stage every time a Digimon is sent back. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 49,
-    "versionName": "0.4.6",
+    "versionCode": 50,
+    "versionName": "0.4.7",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "e9b3056f71cd73e4d888da5d977b4c7411ed1be263aa1b0593580a61abd40b68",
-    "notes": "Fixes a crash that closed the app on Wear OS 4 watches when a list was drawn. The farm stats page shows SPI, and training has no daily limit per Digimon (only the 500 of the player). If something breaks or feels unfair, tell us in #bug-reports."
+    "sha256": "61132e85d612e91f1f035ba58590fae494493e6fa29f9521e599881420e83617",
+    "notes": "Wild fights of the watch use the skills of your Digimon: statuses, boosts, curses, heals and the elements work, magic skills hit with INT and physical ones with ATK, and each Digimon shows what it has on under its health bar. Walking gives mood before a fight (up to 60), and the mood tiers are bad up to 40, normal up to 80 and good above. A fight decided on health says so. If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
     "versionCode": 65,
