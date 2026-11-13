@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 64,
-    "versionName": "0.5.11",
+    "versionCode": 65,
+    "versionName": "0.5.12",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "1ba5da029360b68bc8a3d91dde3aa52f80759259648ec73032792e80f1154eaf",
-    "notes": "White points go to the stat you choose, a 200% scan can become a White 5 (100% a White 1), a list of avatars with search and order, a new Dex with a row for each stage, swipe between farms, and bracelet reading fixes (retries and choosing a renumbered custom card). If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "sha256": "a1d67ad0651d76c3e0ade14291e9b3f62c97d4bc982e1d42623089acb49d2efd",
+    "notes": "Fixes for BE bracelets: the rank of a Digimon read from a BE bracelet was saved wrongly and went back to the bracelet wrong (maybe behind the E20 error when sending a trained Digimon back). It is now worked out again from the training and the stage every time a Digimon is sent back. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 49,
