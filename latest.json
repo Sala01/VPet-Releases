@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 63,
-    "versionName": "0.5.10",
+    "versionCode": 64,
+    "versionName": "0.5.11",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "4360ed7d2929a8eaa402907bf7548f87882897b60428dab885c194a946f82d5c",
-    "notes": "New content (Digimon pictures, skins, farm objects, attack pictures, translations) now comes from the server without updating the app. Status marks in fights (poison, paralysis, sleep, chaos, injury, boosts and curses). Area skills hit every rival at once and the screen no longer goes dark on a skill. Skill seal warnings, nicknames in fights, Dex by line, and reading your tamer card no longer blocks the screen. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "sha256": "1ba5da029360b68bc8a3d91dde3aa52f80759259648ec73032792e80f1154eaf",
+    "notes": "White points go to the stat you choose, a 200% scan can become a White 5 (100% a White 1), a list of avatars with search and order, a new Dex with a row for each stage, swipe between farms, and bracelet reading fixes (retries and choosing a renumbered custom card). If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 49,
