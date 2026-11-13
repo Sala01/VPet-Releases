@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 61,
-    "versionName": "0.5.8",
+    "versionCode": 62,
+    "versionName": "0.5.9",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "ef9b659cf784585d16f3dc542c9595776d4e37c29ca94a0a97bbda00342be2c2",
-    "notes": "The app now downloads the battle art again when the server has a newer pack, so the event skins (Halloween) show up for players who already had the art. Open the app on wifi and wait a minute or two after updating. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "sha256": "7cb43d9d0aa7ece99849f5059184c4b7d9bc1bd0ad12bde4a4cb8c02af8bc189",
+    "notes": "Two new Halloween avatars, Vampire and Witch, that are given with promotional codes. When a bracelet read fails, the report now tells which chip the bracelet has so we can find the combinations that fail. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 48,
@@ -14,8 +14,8 @@
     "notes": "Smaller plates on the main screen (V vitals, S steps, W wild chance) that no longer cover the scene, and the training result shows the farm stats (HP, ATK, SPD, DEF) for a Digimon of the farm. Fixes a crash on some watches. If the watch face does not show the new slot, install the face again from the phone. If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
-    "versionCode": 61,
-    "versionName": "0.5.8",
-    "notes": "The app now downloads the battle art again when the server has a newer pack, so the event skins (Halloween) show up for players who already had the art. Open the app on wifi and wait a minute or two after updating. If something breaks or feels unfair, tell us in #bug-reports."
+    "versionCode": 62,
+    "versionName": "0.5.9",
+    "notes": "Two new Halloween avatars, Vampire and Witch, that are given with promotional codes. When a bracelet read fails, the report now tells which chip the bracelet has so we can find the combinations that fail. If something breaks or feels unfair, tell us in #bug-reports."
   }
 }
