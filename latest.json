@@ -14,8 +14,8 @@
     "notes": "Fixes a crash that closed the app on Wear OS 4 watches when a list was drawn. The farm stats page shows SPI, and training has no daily limit per Digimon (only the 500 of the player). If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
-    "versionCode": 64,
-    "versionName": "0.5.11",
-    "notes": "White points go to the stat you choose, a 200% scan can become a White 5 (100% a White 1), a list of avatars with search and order, a new Dex with a row for each stage, swipe between farms, and bracelet reading fixes (retries and choosing a renumbered custom card). If something breaks or feels unfair, tell us in #bug-reports."
+    "versionCode": 65,
+    "versionName": "0.5.12",
+    "notes": "Fixes for BE bracelets: the rank of a Digimon read from a BE bracelet was saved wrongly and went back to the bracelet wrong (maybe behind the E20 error when sending a trained Digimon back). It is now worked out again from the training and the stage every time a Digimon is sent back. If something breaks or feels unfair, tell us in #bug-reports."
   }
 }
