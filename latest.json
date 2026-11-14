@@ -14,8 +14,8 @@
     "notes": "The intelligence stat shows as INT (magic damage) on the stats screen instead of BRN. If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
-    "versionCode": 66,
-    "versionName": "0.5.13",
-    "notes": "Dungeon tickets are in the farm shop. New avatars show up in the list, with a new button in Settings to update the content from the server. Training on the farm past the orange limit now gives blue points. Playing a floor with a ticket adds the scan of every fight. Digimon in training show as busy in the team lists. If something breaks or feels unfair, tell us in #bug-reports."
+    "versionCode": 67,
+    "versionName": "0.5.14",
+    "notes": "The dungeon result lists the scan of each Digimon you fought, with its own percent. The pictures of the Halloween skin now come in the small content pack, so they show on the farm and in fights on mobile data too. If something breaks or feels unfair, tell us in #bug-reports."
   }
 }
