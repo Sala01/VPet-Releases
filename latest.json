@@ -1,17 +1,17 @@
 {
   "phone": {
-    "versionCode": 67,
-    "versionName": "0.5.14",
+    "versionCode": 68,
+    "versionName": "0.5.15",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "60032bd104f18273d80fc5a03b66de759c622275f5b3639b4f8dfd079374684e",
-    "notes": "The dungeon result lists the scan of each Digimon you fought, with its own percent. The pictures of the Halloween skin now come in the small content pack, so they show on the farm and in fights on mobile data too. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "sha256": "0aad12565b61ec9fffa58427f9b8ca915ffdd18f9a95cc085034e849dbe3d98a",
+    "notes": "Go back a stage lets you choose which earlier form to return to. Log out left the Farm screen and asks to confirm. Promo codes can show a message, and bosses can drop special rewards (avatars, promo codes). Steps now give EXP to every Digimon (20 steps = 1 EXP). If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 51,
-    "versionName": "0.4.8",
+    "versionCode": 52,
+    "versionName": "0.4.9",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "e58c74e12e40b792680c7775268483e1b8e87d93a39aa39c4286613e55e814a3",
-    "notes": "The intelligence stat shows as INT (magic damage) on the stats screen instead of BRN. If something breaks or feels unfair, tell us in #bug-reports."
+    "sha256": "8cb0a40d50e8dd3db539f2a36469199d91ad306406cd1d3d8875e309632c541b",
+    "notes": "The Possible form screen scrolls, so every requirement and the Evolve button can be reached on a round screen. If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
     "versionCode": 67,
