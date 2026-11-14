@@ -14,8 +14,8 @@
     "notes": "The intelligence stat shows as INT (magic damage) on the stats screen instead of BRN. If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
-    "versionCode": 65,
-    "versionName": "0.5.12",
-    "notes": "Fixes for BE bracelets: the rank of a Digimon read from a BE bracelet was saved wrongly and went back to the bracelet wrong (maybe behind the E20 error when sending a trained Digimon back). It is now worked out again from the training and the stage every time a Digimon is sent back. If something breaks or feels unfair, tell us in #bug-reports."
+    "versionCode": 66,
+    "versionName": "0.5.13",
+    "notes": "Dungeon tickets are in the farm shop. New avatars show up in the list, with a new button in Settings to update the content from the server. Training on the farm past the orange limit now gives blue points. Playing a floor with a ticket adds the scan of every fight. Digimon in training show as busy in the team lists. If something breaks or feels unfair, tell us in #bug-reports."
   }
 }
