@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 69,
-    "versionName": "0.5.16",
+    "versionCode": 70,
+    "versionName": "0.5.17",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "17fe1910b8494cb6e7cf913daa258f4e7744376a55358133ea99bb28e5ab2230",
-    "notes": "Training is one thing now, orange, with a limit of 300 per stat (3000 in HP); a tenth of it turns purple when a Digimon evolves or goes back a stage. A new page in the stats shows where each stat comes from. Element and type on the farm card, tamer badge, piercing attacks. Points above the new limit are taken off. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "sha256": "818f6fe5943191d25862c1bd139bc53143572b956d4cf6cda998c09944911ec2",
+    "notes": "Attacks are edited from the server now (name, element, damage, MP cost, new attacks, who knows what) with no new app version. An attack can cost a fixed number of MP and the farm list shows it, for example 250 MP. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 53,
