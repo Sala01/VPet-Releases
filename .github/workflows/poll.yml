@@ -34,7 +34,7 @@ jobs:
             username: "VPet announcements",
             poll: {
               question: { text: $q },
-              answers: ($a | split("|") | map(gsub("^\s+|\s+$"; "")) | map({ poll_media: { text: . } })),
+              answers: ($a | split("|") | map(sub("^ +"; "") | sub(" +$"; "")) | map({ poll_media: { text: . } })),
               duration: $h,
               allow_multiselect: $m
             }
