@@ -14,8 +14,8 @@
     "notes": "The Possible form screen scrolls, so every requirement and the Evolve button can be reached on a round screen. If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
-    "versionCode": 67,
-    "versionName": "0.5.14",
-    "notes": "The dungeon result lists the scan of each Digimon you fought, with its own percent. The pictures of the Halloween skin now come in the small content pack, so they show on the farm and in fights on mobile data too. If something breaks or feels unfair, tell us in #bug-reports."
+    "versionCode": 68,
+    "versionName": "0.5.15",
+    "notes": "Go back a stage lets you choose which earlier form to return to. Log out left the Farm screen and asks to confirm. Promo codes can show a message, and bosses can drop special rewards (avatars, promo codes). Steps now give EXP to every Digimon (20 steps = 1 EXP). If something breaks or feels unfair, tell us in #bug-reports."
   }
 }
