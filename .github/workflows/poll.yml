@@ -1,0 +1,42 @@
+name: Post a poll on Discord
+
+on:
+  workflow_dispatch:
+    inputs:
+      question:
+        description: The question of the poll (up to 300 characters)
+        required: true
+      answers:
+        description: The answers separated by | (up to 10, 55 characters each)
+        required: true
+      hours:
+        description: How long the poll stays open, in hours (1 to 768)
+        required: true
+        default: "72"
+      multiselect:
+        description: Allow more than one answer (true or false)
+        required: true
+        default: "true"
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Post the poll to the channel of the webhook
+        env:
+          WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          QUESTION: ${{ inputs.question }}
+          ANSWERS: ${{ inputs.answers }}
+          HOURS: ${{ inputs.hours }}
+          MULTI: ${{ inputs.multiselect }}
+        run: |
+          jq -n --arg q "$QUESTION" --arg a "$ANSWERS" --argjson h "$HOURS" --argjson m "$MULTI" '{
+            username: "VPet announcements",
+            poll: {
+              question: { text: $q },
+              answers: ($a | split("|") | map(gsub("^\s+|\s+$"; "")) | map({ poll_media: { text: . } })),
+              duration: $h,
+              allow_multiselect: $m
+            }
+          }' > payload.json
+          curl -sS --fail-with-body -H "Content-Type: application/json" -d @payload.json "$WEBHOOK"
