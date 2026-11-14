@@ -14,8 +14,8 @@
     "notes": "The profile shows the orange points (all the training together, up to 300 per stat) instead of the blue ones. If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
-    "versionCode": 68,
-    "versionName": "0.5.15",
-    "notes": "Go back a stage lets you choose which earlier form to return to. Log out left the Farm screen and asks to confirm. Promo codes can show a message, and bosses can drop special rewards (avatars, promo codes). Steps now give EXP to every Digimon (20 steps = 1 EXP). If something breaks or feels unfair, tell us in #bug-reports."
+    "versionCode": 69,
+    "versionName": "0.5.16",
+    "notes": "Training is one thing now, orange, with a limit of 300 per stat (3000 in HP); a tenth of it turns purple when a Digimon evolves or goes back a stage. A new page in the stats shows where each stat comes from. Element and type on the farm card, tamer badge, piercing attacks. Points above the new limit are taken off. If something breaks or feels unfair, tell us in #bug-reports."
   }
 }
