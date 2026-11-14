@@ -14,8 +14,8 @@
     "notes": "The profile shows the orange points (all the training together, up to 300 per stat) instead of the blue ones. If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
-    "versionCode": 69,
-    "versionName": "0.5.16",
-    "notes": "Training is one thing now, orange, with a limit of 300 per stat (3000 in HP); a tenth of it turns purple when a Digimon evolves or goes back a stage. A new page in the stats shows where each stat comes from. Element and type on the farm card, tamer badge, piercing attacks. Points above the new limit are taken off. If something breaks or feels unfair, tell us in #bug-reports."
+    "versionCode": 70,
+    "versionName": "0.5.17",
+    "notes": "Attacks are edited from the server now (name, element, damage, MP cost, new attacks, who knows what) with no new app version. An attack can cost a fixed number of MP and the farm list shows it, for example 250 MP. If something breaks or feels unfair, tell us in #bug-reports."
   }
 }
