@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 70,
-    "versionName": "0.5.17",
+    "versionCode": 71,
+    "versionName": "0.5.18",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "818f6fe5943191d25862c1bd139bc53143572b956d4cf6cda998c09944911ec2",
-    "notes": "Attacks are edited from the server now (name, element, damage, MP cost, new attacks, who knows what) with no new app version. An attack can cost a fixed number of MP and the farm list shows it, for example 250 MP. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "sha256": "2ccca0ff2be7d08ea930dd3366682a14f583809f73656d617665a27675586304",
+    "notes": "The Digimon of the tamer badge picker show their pictures again and the badge saves. The type of each Digimon (Vaccine, Virus, Data) now follows the cards. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 53,
