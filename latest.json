@@ -7,11 +7,11 @@
     "notes": "Your avatar walks in four pictures in the Digital World, and the avatars were retouched (heads move with the body from the front and the back). If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 55,
-    "versionName": "0.4.12",
+    "versionCode": 56,
+    "versionName": "0.4.13",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "cdf6cb733ca20e17f100664735a2b0bc7d681b1821d3cd1c7d65e6dfbf281013",
-    "notes": "The adventure screens look like the other menus of the watch, and a lost fight no longer takes vitals. If something breaks or feels unfair, tell us in #bug-reports."
+    "sha256": "b986466208e5e01175e48a969b69bd19ce93146307a311b7b346986bf4368eb3",
+    "notes": "The training menu has a new Background switch (Digimon sent from the phone arrived with it off), and the adventure walk says Steps walked over the goal in one panel that fits round screens. If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
     "versionCode": 74,
