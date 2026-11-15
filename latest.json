@@ -14,8 +14,8 @@
     "notes": "The adventure screens look like the other menus of the watch, and a lost fight no longer takes vitals. If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
-    "versionCode": 72,
-    "versionName": "0.5.19",
-    "notes": "The app waits up to 3 seconds for the answer of the bracelet (before, about 0.6 s), which should help the reads that ended in \"Tag was lost\". If it still fails, tell us your phone model in #bug-reports."
+    "versionCode": 74,
+    "versionName": "0.5.21",
+    "notes": "Your avatar walks in four pictures in the Digital World, and the avatars were retouched (heads move with the body from the front and the back). If something breaks or feels unfair, tell us in #bug-reports."
   }
 }
