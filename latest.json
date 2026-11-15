@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 71,
-    "versionName": "0.5.18",
+    "versionCode": 72,
+    "versionName": "0.5.19",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "2ccca0ff2be7d08ea930dd3366682a14f583809f73656d617665a27675586304",
-    "notes": "The Digimon of the tamer badge picker show their pictures again and the badge saves. The type of each Digimon (Vaccine, Virus, Data) now follows the cards. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "sha256": "1de9fa67e2733d27967fed8a2034ade18a05ada7107443e90b48d543c39a2fbc",
+    "notes": "The app waits up to 3 seconds for the answer of the bracelet (before, about 0.6 s), which should help the reads that ended in \"Tag was lost\". If it still fails, tell us your phone model in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 53,
