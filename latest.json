@@ -14,8 +14,8 @@
     "notes": "The profile shows the orange points (all the training together, up to 300 per stat) instead of the blue ones. If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
-    "versionCode": 71,
-    "versionName": "0.5.18",
-    "notes": "The Digimon of the tamer badge picker show their pictures again and the badge saves. The type of each Digimon (Vaccine, Virus, Data) now follows the cards. If something breaks or feels unfair, tell us in #bug-reports."
+    "versionCode": 72,
+    "versionName": "0.5.19",
+    "notes": "The app waits up to 3 seconds for the answer of the bracelet (before, about 0.6 s), which should help the reads that ended in \"Tag was lost\". If it still fails, tell us your phone model in #bug-reports."
   }
 }
