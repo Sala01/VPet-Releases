@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 73,
-    "versionName": "0.5.20",
+    "versionCode": 74,
+    "versionName": "0.5.21",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "b54b42b11affac3cb2b86957bdc8fac2dc85a19cdb9a05179611dc001224a8f1",
-    "notes": "The farm shows the skin of each Digimon (scene, widget and team lists), and the badge can wear a skin you own. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "sha256": "1c8b6b37685593218abecb216b3cae352be41b0481d5af477c7423a42af8f974",
+    "notes": "Your avatar walks in four pictures in the Digital World, and the avatars were retouched (heads move with the body from the front and the back). If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 55,
