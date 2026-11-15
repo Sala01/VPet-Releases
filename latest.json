@@ -7,11 +7,11 @@
     "notes": "The app waits up to 3 seconds for the answer of the bracelet (before, about 0.6 s), which should help the reads that ended in \"Tag was lost\". If it still fails, tell us your phone model in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 54,
-    "versionName": "0.4.11",
+    "versionCode": 55,
+    "versionName": "0.4.12",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "45b3d80612bc456a2d06c621de4aa8c79411d105bea4b5e56ed1ec1ecad280bd",
-    "notes": "Fights on the watch follow the new rules: the chance to land and the critical hits belong to each skill and speed no longer changes them. INT and SPI boosts work. If something breaks or feels unfair, tell us in #bug-reports."
+    "sha256": "cdf6cb733ca20e17f100664735a2b0bc7d681b1821d3cd1c7d65e6dfbf281013",
+    "notes": "The adventure screens look like the other menus of the watch, and a lost fight no longer takes vitals. If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
     "versionCode": 72,
