@@ -1,17 +1,17 @@
 {
   "phone": {
-    "versionCode": 74,
-    "versionName": "0.5.21",
+    "versionCode": 75,
+    "versionName": "0.5.22",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "1c8b6b37685593218abecb216b3cae352be41b0481d5af477c7423a42af8f974",
-    "notes": "Your avatar walks in four pictures in the Digital World, and the avatars were retouched (heads move with the body from the front and the back). If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "sha256": "35210e68958d67faa0fd0c1f71df82ad47475ef24beba71166e5bbdc5f7d1687",
+    "notes": "You can see if an attack is strong or weak against each rival before you strike, read how a PvP fight went, use a bedtime mode, and more. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 56,
-    "versionName": "0.4.13",
+    "versionCode": 57,
+    "versionName": "0.4.14",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "b986466208e5e01175e48a969b69bd19ce93146307a311b7b346986bf4368eb3",
-    "notes": "The training menu has a new Background switch (Digimon sent from the phone arrived with it off), and the adventure walk says Steps walked over the goal in one panel that fits round screens. If something breaks or feels unfair, tell us in #bug-reports."
+    "sha256": "8d49d1f47d1ef011b7d63a2d3b074f728617b617db7092e9077f590691e14b9c",
+    "notes": "A button to sync steps with the farm, and the steps of an adventure now arrive with the screen off. If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
     "versionCode": 74,
