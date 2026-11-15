@@ -14,8 +14,8 @@
     "notes": "The profile shows the orange points (all the training together, up to 300 per stat) instead of the blue ones. If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
-    "versionCode": 70,
-    "versionName": "0.5.17",
-    "notes": "Attacks are edited from the server now (name, element, damage, MP cost, new attacks, who knows what) with no new app version. An attack can cost a fixed number of MP and the farm list shows it, for example 250 MP. If something breaks or feels unfair, tell us in #bug-reports."
+    "versionCode": 71,
+    "versionName": "0.5.18",
+    "notes": "The Digimon of the tamer badge picker show their pictures again and the badge saves. The type of each Digimon (Vaccine, Virus, Data) now follows the cards. If something breaks or feels unfair, tell us in #bug-reports."
   }
 }
