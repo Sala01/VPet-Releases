@@ -7,11 +7,11 @@
     "notes": "You can see if an attack is strong or weak against each rival before you strike, read how a PvP fight went, use a bedtime mode, and more. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 57,
-    "versionName": "0.4.14",
+    "versionCode": 58,
+    "versionName": "0.4.15",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "8d49d1f47d1ef011b7d63a2d3b074f728617b617db7092e9077f590691e14b9c",
-    "notes": "A button to sync steps with the farm, and the steps of an adventure now arrive with the screen off. If something breaks or feels unfair, tell us in #bug-reports."
+    "sha256": "43c110de1ab864f8190b0ef9ec601acb4d7a9c1429d76b93fa624b237dd82e06",
+    "notes": "The watch face can show the data you choose (date, heart rate, battery...) and has a new plate. The steps past the daily limit of the tamer now give coins (from the server). If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
     "versionCode": 74,
