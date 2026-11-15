@@ -14,8 +14,8 @@
     "notes": "The watch face can show the data you choose (date, heart rate, battery...) and has a new plate. The steps past the daily limit of the tamer now give coins (from the server). If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
-    "versionCode": 74,
-    "versionName": "0.5.21",
-    "notes": "Your avatar walks in four pictures in the Digital World, and the avatars were retouched (heads move with the body from the front and the back). If something breaks or feels unfair, tell us in #bug-reports."
+    "versionCode": 75,
+    "versionName": "0.5.22",
+    "notes": "You can see if an attack is strong or weak against each rival before you strike, read how a PvP fight went, use a bedtime mode, and more. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   }
 }
