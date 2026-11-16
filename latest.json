@@ -14,8 +14,8 @@
     "notes": "The watch face can show the data you choose (date, heart rate, battery...) and has a new plate. The steps past the daily limit of the tamer now give coins (from the server). If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
-    "versionCode": 75,
-    "versionName": "0.5.22",
-    "notes": "You can see if an attack is strong or weak against each rival before you strike, read how a PvP fight went, use a bedtime mode, and more. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "versionCode": 76,
+    "versionName": "0.5.23",
+    "notes": "You can hack DIM cards with the new Hacker Ticket: one Digimon fights every Digimon of a card one against one, with no healing in between. The Tamer page shows the coins of your extra steps. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   }
 }
