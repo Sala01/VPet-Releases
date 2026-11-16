@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 75,
-    "versionName": "0.5.22",
+    "versionCode": 76,
+    "versionName": "0.5.23",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "35210e68958d67faa0fd0c1f71df82ad47475ef24beba71166e5bbdc5f7d1687",
-    "notes": "You can see if an attack is strong or weak against each rival before you strike, read how a PvP fight went, use a bedtime mode, and more. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "sha256": "f412ef661b07a86e6d2ab8604b1d0c4980d184347fc70f027cc9d1cb4f1793dd",
+    "notes": "You can hack DIM cards with the new Hacker Ticket: one Digimon fights every Digimon of a card one against one, with no healing in between. The Tamer page shows the coins of your extra steps. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 58,
