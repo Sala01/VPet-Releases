@@ -14,8 +14,8 @@
     "notes": "The watch face can show the data you choose (date, heart rate, battery...) and has a new plate. The steps past the daily limit of the tamer now give coins (from the server). If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
-    "versionCode": 78,
-    "versionName": "0.5.25",
-    "notes": "Wild Digimon now walk the Digital World and chase you if they see you, your team keeps the stage your tamer level allows, hacking a DIM card gives experience and works with any card, and the co-op floor boss shows the fight round by round. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "versionCode": 79,
+    "versionName": "0.5.26",
+    "notes": "Forms you already unlocked now show on the farm instead of \"???\", a crash when opening a Digimon is fixed, and the bracelet reports are more detailed so we can find why some phones fail. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   }
 }
