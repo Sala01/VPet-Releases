@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 76,
-    "versionName": "0.5.23",
+    "versionCode": 77,
+    "versionName": "0.5.24",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "f412ef661b07a86e6d2ab8604b1d0c4980d184347fc70f027cc9d1cb4f1793dd",
-    "notes": "You can hack DIM cards with the new Hacker Ticket: one Digimon fights every Digimon of a card one against one, with no healing in between. The Tamer page shows the coins of your extra steps. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "sha256": "89179c895f5d3128856b6da022b284190399af79ef74b4751a6c5afdb188369a",
+    "notes": "Mega+ forms have their own row in the Dex, the Dex shows what each Digimon evolves into as the game has it, nicknames show on the farm, and an evolved Digimon gets its best skills with a free new choice. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 58,
