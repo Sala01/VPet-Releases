@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 77,
-    "versionName": "0.5.24",
+    "versionCode": 78,
+    "versionName": "0.5.25",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "89179c895f5d3128856b6da022b284190399af79ef74b4751a6c5afdb188369a",
-    "notes": "Mega+ forms have their own row in the Dex, the Dex shows what each Digimon evolves into as the game has it, nicknames show on the farm, and an evolved Digimon gets its best skills with a free new choice. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "sha256": "f41075a511a015a75399b4734d7ac269f61354fc7a9438b0b49481a49e1d510d",
+    "notes": "Wild Digimon now walk the Digital World and chase you if they see you, your team keeps the stage your tamer level allows, hacking a DIM card gives experience and works with any card, and the co-op floor boss shows the fight round by round. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 58,
