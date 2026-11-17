@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 78,
-    "versionName": "0.5.25",
+    "versionCode": 79,
+    "versionName": "0.5.26",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "f41075a511a015a75399b4734d7ac269f61354fc7a9438b0b49481a49e1d510d",
-    "notes": "Wild Digimon now walk the Digital World and chase you if they see you, your team keeps the stage your tamer level allows, hacking a DIM card gives experience and works with any card, and the co-op floor boss shows the fight round by round. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "sha256": "c0a0561d96f5635162443805afce38c7f8c4997c2df5ccf830048cc8b995462a",
+    "notes": "Forms you already unlocked now show on the farm instead of \"???\", a crash when opening a Digimon is fixed, and the bracelet reports are more detailed so we can find why some phones fail. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 58,
