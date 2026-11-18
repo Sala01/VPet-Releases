@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 79,
-    "versionName": "0.5.26",
+    "versionCode": 80,
+    "versionName": "0.5.27",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "c0a0561d96f5635162443805afce38c7f8c4997c2df5ccf830048cc8b995462a",
-    "notes": "Forms you already unlocked now show on the farm instead of \"???\", a crash when opening a Digimon is fixed, and the bracelet reports are more detailed so we can find why some phones fail. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "sha256": "f94eaf6fe3e916f482c142db058eb31ba27f01c0c7682a1c2bcee8887ce1d16c",
+    "notes": "A new bank of steps for the card adventures: the steps no mission needs wait there and you can spend them on a mission. The banks for trainings and adventures now hold up to 1,000,000 steps. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 58,
