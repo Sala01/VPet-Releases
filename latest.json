@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 80,
-    "versionName": "0.5.27",
+    "versionCode": 81,
+    "versionName": "0.5.28",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "f94eaf6fe3e916f482c142db058eb31ba27f01c0c7682a1c2bcee8887ce1d16c",
-    "notes": "A new bank of steps for the card adventures: the steps no mission needs wait there and you can spend them on a mission. The banks for trainings and adventures now hold up to 1,000,000 steps. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "sha256": "099bb066f98c4671d8e03710a60abf9acd0fb178c20479bbf4c826f79fe88a2f",
+    "notes": "DNA: give a Digimon to another and it inherits 5% of its stats as purple points (up to 100 per gift, 500 in all). PvP: 5 free fights a day, more with PvP tickets (300 coins in the shop). Walking now cheers up your farm Digimon too. Fixes for Dorumon, Lynxmon and custom cards. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 58,
