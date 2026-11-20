@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 81,
-    "versionName": "0.5.28",
+    "versionCode": 82,
+    "versionName": "0.5.29",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "099bb066f98c4671d8e03710a60abf9acd0fb178c20479bbf4c826f79fe88a2f",
-    "notes": "DNA: give a Digimon to another and it inherits 5% of its stats as purple points (up to 100 per gift, 500 in all). PvP: 5 free fights a day, more with PvP tickets (300 coins in the shop). Walking now cheers up your farm Digimon too. Fixes for Dorumon, Lynxmon and custom cards. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "sha256": "8d96e15ddc8b46ec5096ddcdddc7c95e1ab9f0d5c8b3b49a1dd97be9d7b26dc7",
+    "notes": "The Digimon World Championship cards are taken out of the game for now, and the app removes them from your list and the Dex. Sending in custom DIM cards is closed for now. Settings has a new What's new screen. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 58,
