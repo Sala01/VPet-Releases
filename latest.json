@@ -14,8 +14,8 @@
     "notes": "The watch face can show the data you choose (date, heart rate, battery...) and has a new plate. The steps past the daily limit of the tamer now give coins (from the server). If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
-    "versionCode": 81,
-    "versionName": "0.5.28",
-    "notes": "DNA: give a Digimon to another and it inherits 5% of its stats as purple points (up to 100 per gift, 500 in all). PvP: 5 free fights a day, more with PvP tickets (300 coins in the shop). Walking now cheers up your farm Digimon too. Fixes for Dorumon, Lynxmon and custom cards. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "versionCode": 82,
+    "versionName": "0.5.29",
+    "notes": "Digimon World Championship cards are taken out of the game until it is balanced (Digimon you already raised from them stay). Custom DIM requests are closed for now. New What's new screen in Settings. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
   }
 }
