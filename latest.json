@@ -7,11 +7,11 @@
     "notes": "Fixes: a boss fight cut by a dropped connection or a server restart no longer costs your daily attempt, bracelet reads work with more Digimon and explain 'not ready', arrows to switch farms, the plain attack shows MAGIC for mages, the world no longer shows open doors or a missing boss and its top bar wraps. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 59,
-    "versionName": "0.4.16",
+    "versionCode": 60,
+    "versionName": "0.4.17",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "6094034d99b5ab1349915bf700081832a8e41e0e2f89fc0f34c32a24d804c46b",
-    "notes": "The steps of an adventure no longer show negative numbers when the daily step count resets. If something breaks or feels unfair, tell us in Discord with /bug."
+    "sha256": "3c7c785e4a86d692ed4b2059327d397fd4f9de166c2b40975ed4983fa20bdafe",
+    "notes": "Training no longer gives points for free: a repetition with no exercise counts for nothing, however high the heart rate is (Repeat and Background gave Good trainings by themselves, and cancelling at once gave one). If something breaks or feels unfair, tell us in Discord with /bug."
   },
   "phoneStore": {
     "versionCode": 85,
