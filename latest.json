@@ -14,8 +14,8 @@
     "notes": "The steps of an adventure no longer show negative numbers when the daily step count resets. If something breaks or feels unfair, tell us in Discord with /bug."
   },
   "phoneStore": {
-    "versionCode": 83,
-    "versionName": "0.6.0",
-    "notes": "The open world is here: walk the city with your Digimon, buy a plot, build and decorate your house, fight wild Digimon, beat the city boss together to become President, and join guild missions, rankings and tournaments. Seven PvP leagues with daily prizes. Farm, Dex and Storage are one tap away on the Digivice. Requires Android 13 or newer."
+    "versionCode": 85,
+    "versionName": "0.6.2",
+    "notes": "Fixes: a boss fight cut by a dropped connection or a server restart no longer costs your daily attempt, bracelet reads work with more Digimon and explain 'not ready', arrows to switch farms, the plain attack shows MAGIC for mages, the world no longer shows open doors or a missing boss and its top bar wraps. Requires Android 13 or newer."
   }
 }
