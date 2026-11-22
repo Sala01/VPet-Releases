@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 86,
-    "versionName": "0.6.3",
+    "versionCode": 87,
+    "versionName": "0.6.4",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "68362b0136ca52879685c29dd4e95059c9a02ad1f42fccd1c42b34eb7a233d89",
-    "notes": "The bracelet is back: Scan returns to the Digivice menu so you can read and send Digimon again. The attack/defence swap works with one team filled, team Digimon can go on adventures, the Dungeons and Event buttons are hidden for now, and leagues no longer refuse higher-stage Digimon. Requires Android 13 or newer."
+    "sha256": "75e98617cda16b5191ce2cd6d69a0158dd4487ebe30998770a936c23255ff3c8",
+    "notes": "New: desktop mode and open world mode (Settings > Interface mode). Desktop opens in the farm of before with the bar at the bottom and the old menus, and its Digital World button goes to the open world. Open world mode (default) works as in 0.6.x. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 60,
