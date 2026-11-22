@@ -14,8 +14,8 @@
     "notes": "The watch face can show the data you choose (date, heart rate, battery...) and has a new plate. The steps past the daily limit of the tamer now give coins (from the server). If something breaks or feels unfair, tell us in #bug-reports."
   },
   "phoneStore": {
-    "versionCode": 82,
-    "versionName": "0.5.29",
-    "notes": "Digimon World Championship cards are taken out of the game until it is balanced (Digimon you already raised from them stay). Custom DIM requests are closed for now. New What's new screen in Settings. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "versionCode": 83,
+    "versionName": "0.6.0",
+    "notes": "The open world is here: walk the city with your Digimon, buy a plot, build and decorate your house, fight wild Digimon, beat the city boss together to become President, and join guild missions, rankings and tournaments. Seven PvP leagues with daily prizes. Farm, Dex and Storage are one tap away on the Digivice. Requires Android 13 or newer."
   }
 }
