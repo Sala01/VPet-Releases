@@ -1,17 +1,17 @@
 {
   "phone": {
-    "versionCode": 84,
-    "versionName": "0.6.1",
+    "versionCode": 85,
+    "versionName": "0.6.2",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "9443bd5c4b8108118f31abcf95686ef05a0c7213ca3bac40f1893781df9df55a",
-    "notes": "PvP leagues no longer keep anybody out: any Digimon can fight in any league, and one of a higher stage than the league fights as its earlier form of that stage (only in the fight). If something breaks or feels unfair, tell us in Discord with /bug or /suggestion. Requires Android 13 or newer."
+    "sha256": "b6ce0276dc46b4a5dadc0c96353e842a5208210f73815b3746464a440c4de782",
+    "notes": "Fixes: a boss fight cut by a dropped connection or a server restart no longer costs your daily attempt, bracelet reads work with more Digimon and explain 'not ready', arrows to switch farms, the plain attack shows MAGIC for mages, the world no longer shows open doors or a missing boss and its top bar wraps. Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 58,
-    "versionName": "0.4.15",
+    "versionCode": 59,
+    "versionName": "0.4.16",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "43c110de1ab864f8190b0ef9ec601acb4d7a9c1429d76b93fa624b237dd82e06",
-    "notes": "The watch face can show the data you choose (date, heart rate, battery...) and has a new plate. The steps past the daily limit of the tamer now give coins (from the server). If something breaks or feels unfair, tell us in #bug-reports."
+    "sha256": "6094034d99b5ab1349915bf700081832a8e41e0e2f89fc0f34c32a24d804c46b",
+    "notes": "The steps of an adventure no longer show negative numbers when the daily step count resets. If something breaks or feels unfair, tell us in Discord with /bug."
   },
   "phoneStore": {
     "versionCode": 83,
