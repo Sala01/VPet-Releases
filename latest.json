@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 82,
-    "versionName": "0.5.29",
+    "versionCode": 83,
+    "versionName": "0.6.0",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "8d96e15ddc8b46ec5096ddcdddc7c95e1ab9f0d5c8b3b49a1dd97be9d7b26dc7",
-    "notes": "The Digimon World Championship cards are taken out of the game for now, and the app removes them from your list and the Dex. Sending in custom DIM cards is closed for now. Settings has a new What's new screen. If something breaks or feels unfair, tell us in #bug-reports. Requires Android 13 or newer."
+    "sha256": "b9740326abdcb7d375586b38b60b0ca853ebf26e6b12e8f829ae287fa7261e98",
+    "notes": "The open world is here: walk the city with your Digimon, buy a plot, build and decorate your house, fight wild Digimon, beat the city boss together to become President, and join guild missions, rankings and tournaments. Seven PvP leagues with daily prizes. Farm, Dex and Storage are one tap away on the Digivice. If something breaks or feels unfair, tell us in Discord. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 58,
