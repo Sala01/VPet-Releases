@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 83,
-    "versionName": "0.6.0",
+    "versionCode": 84,
+    "versionName": "0.6.1",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "b9740326abdcb7d375586b38b60b0ca853ebf26e6b12e8f829ae287fa7261e98",
-    "notes": "The open world is here: walk the city with your Digimon, buy a plot, build and decorate your house, fight wild Digimon, beat the city boss together to become President, and join guild missions, rankings and tournaments. Seven PvP leagues with daily prizes. Farm, Dex and Storage are one tap away on the Digivice. If something breaks or feels unfair, tell us in Discord. Requires Android 13 or newer."
+    "sha256": "9443bd5c4b8108118f31abcf95686ef05a0c7213ca3bac40f1893781df9df55a",
+    "notes": "PvP leagues no longer keep anybody out: any Digimon can fight in any league, and one of a higher stage than the league fights as its earlier form of that stage (only in the fight). If something breaks or feels unfair, tell us in Discord with /bug or /suggestion. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 58,
