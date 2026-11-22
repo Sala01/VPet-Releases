@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 85,
-    "versionName": "0.6.2",
+    "versionCode": 86,
+    "versionName": "0.6.3",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "b6ce0276dc46b4a5dadc0c96353e842a5208210f73815b3746464a440c4de782",
-    "notes": "Fixes: a boss fight cut by a dropped connection or a server restart no longer costs your daily attempt, bracelet reads work with more Digimon and explain 'not ready', arrows to switch farms, the plain attack shows MAGIC for mages, the world no longer shows open doors or a missing boss and its top bar wraps. Requires Android 13 or newer."
+    "sha256": "68362b0136ca52879685c29dd4e95059c9a02ad1f42fccd1c42b34eb7a233d89",
+    "notes": "The bracelet is back: Scan returns to the Digivice menu so you can read and send Digimon again. The attack/defence swap works with one team filled, team Digimon can go on adventures, the Dungeons and Event buttons are hidden for now, and leagues no longer refuse higher-stage Digimon. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 60,
