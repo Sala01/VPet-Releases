@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 87,
-    "versionName": "0.6.4",
+    "versionCode": 88,
+    "versionName": "0.6.5",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "75e98617cda16b5191ce2cd6d69a0158dd4487ebe30998770a936c23255ff3c8",
-    "notes": "New: desktop mode and open world mode (Settings > Interface mode). Desktop opens in the farm of before with the bar at the bottom and the old menus, and its Digital World button goes to the open world. Open world mode (default) works as in 0.6.x. Requires Android 13 or newer."
+    "sha256": "c88e2a84be4bb3fc1787b58820f6542dd1e595a939fc4a0e859793f5750a972c",
+    "notes": "New PvP leagues with trophies: pick your rival from a list, one PvP team and one Digital World team, roles for every Digimon, confirm your team before a boss, less exp from much weaker foes, tickets sold by the buildings, and the watch training (PP, HP, AP, BP) now returns to the watch. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 60,
