@@ -14,8 +14,8 @@
     "notes": "Training no longer gives points for free: a repetition with no exercise counts for nothing, however high the heart rate is (Repeat and Background gave Good trainings by themselves, and cancelling at once gave one). If something breaks or feels unfair, tell us in Discord with /bug."
   },
   "phoneStore": {
-    "versionCode": 87,
-    "versionName": "0.6.4",
-    "notes": "New: desktop mode and open world mode (Settings > Interface mode). Desktop opens in the farm of before with the bar at the bottom and the old menus, and its Digital World button goes to the open world. Open world mode (default) works as in 0.6.x. Requires Android 13 or newer."
+    "versionCode": 88,
+    "versionName": "0.6.5",
+    "notes": "New PvP leagues with trophies: pick your rival from a list, one PvP team and one Digital World team, roles for every Digimon, confirm your team before a boss, less exp from much weaker foes, tickets sold by the buildings, and the watch training (PP, HP, AP, BP) now returns to the watch. Requires Android 13 or newer."
   }
 }
