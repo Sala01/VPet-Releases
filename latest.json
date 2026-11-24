@@ -14,8 +14,8 @@
     "notes": "Training no longer gives points for free: a repetition with no exercise counts for nothing, however high the heart rate is (Repeat and Background gave Good trainings by themselves, and cancelling at once gave one). If something breaks or feels unfair, tell us in Discord with /bug."
   },
   "phoneStore": {
-    "versionCode": 88,
-    "versionName": "0.6.5",
-    "notes": "New PvP leagues with trophies: pick your rival from a list, one PvP team and one Digital World team, roles for every Digimon, confirm your team before a boss, less exp from much weaker foes, tickets sold by the buildings, and the watch training (PP, HP, AP, BP) now returns to the watch. Requires Android 13 or newer."
+    "versionCode": 89,
+    "versionName": "0.6.6",
+    "notes": "New: fusions (open a Digimon of the farm and press Fusion), teams that stay on the farm, the Digimon that follow you in the world change with your team, Digimon on adventures can join a team, a better team screen before bosses, and Digimon without their card on the phone show on the farm and the widget. Requires Android 13 or newer."
   }
 }
