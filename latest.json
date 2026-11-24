@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 88,
-    "versionName": "0.6.5",
+    "versionCode": 89,
+    "versionName": "0.6.6",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "c88e2a84be4bb3fc1787b58820f6542dd1e595a939fc4a0e859793f5750a972c",
-    "notes": "New PvP leagues with trophies: pick your rival from a list, one PvP team and one Digital World team, roles for every Digimon, confirm your team before a boss, less exp from much weaker foes, tickets sold by the buildings, and the watch training (PP, HP, AP, BP) now returns to the watch. Requires Android 13 or newer."
+    "sha256": "f3ffa42ce88138c2c47b236cbdd52f90ac5c407e624c1877ef2c3b4ef2cb3c45",
+    "notes": "New: fusions (open a Digimon of the farm and press Fusion), teams that stay on the farm, the Digimon that follow you in the world change with your team, Digimon on adventures can join a team, a better team screen before bosses, and Digimon without their card on the phone show on the farm and the widget. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 60,
