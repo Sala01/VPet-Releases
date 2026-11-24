@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 89,
-    "versionName": "0.6.6",
+    "versionCode": 90,
+    "versionName": "0.6.7",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "f3ffa42ce88138c2c47b236cbdd52f90ac5c407e624c1877ef2c3b4ef2cb3c45",
-    "notes": "New: fusions (open a Digimon of the farm and press Fusion), teams that stay on the farm, the Digimon that follow you in the world change with your team, Digimon on adventures can join a team, a better team screen before bosses, and Digimon without their card on the phone show on the farm and the widget. Requires Android 13 or newer."
+    "sha256": "0b22460590639dd68b68bd1f0c5ecaf70df3d3d7bb4e0490e664edf507d9a435",
+    "notes": "Fix: the Mini Coliseum (30000 coins) has its own name in the build menu instead of a second \"House\". Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 60,
@@ -14,8 +14,8 @@
     "notes": "Training no longer gives points for free: a repetition with no exercise counts for nothing, however high the heart rate is (Repeat and Background gave Good trainings by themselves, and cancelling at once gave one). If something breaks or feels unfair, tell us in Discord with /bug."
   },
   "phoneStore": {
-    "versionCode": 89,
-    "versionName": "0.6.6",
-    "notes": "New: fusions (open a Digimon of the farm and press Fusion), teams that stay on the farm, the Digimon that follow you in the world change with your team, Digimon on adventures can join a team, a better team screen before bosses, and Digimon without their card on the phone show on the farm and the widget. Requires Android 13 or newer."
+    "versionCode": 90,
+    "versionName": "0.6.7",
+    "notes": "Fix: the Mini Coliseum (30000 coins) has its own name in the build menu instead of a second \"House\". Requires Android 13 or newer."
   }
 }
