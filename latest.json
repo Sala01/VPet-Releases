@@ -14,8 +14,8 @@
     "notes": "Fix: the steps of an adventure count again. The walk could stay at 0 / 1000 while encounters kept coming, because it used a rough accelerometer guess if you started it right after opening the app. It now always uses the step counter of the watch."
   },
   "phoneStore": {
-    "versionCode": 90,
-    "versionName": "0.6.7",
-    "notes": "Fix: the Mini Coliseum (30000 coins) has its own name in the build menu instead of a second \"House\". Requires Android 13 or newer."
+    "versionCode": 91,
+    "versionName": "0.6.8",
+    "notes": "New: the info screen of a Digimon shows its vitals, trophies, fights and win rate at the top. Fixed: the Transfer item only moves real white points, new forms without a card show in Storage, up to 3 plots per player, and the Digital World button opens the open world. Requires Android 13 or newer."
   }
 }
