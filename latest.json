@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 91,
-    "versionName": "0.6.8",
+    "versionCode": 92,
+    "versionName": "0.6.9",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "da3a78c29e570f569ff020c7a5a4944983e5265c2860a50a0907e6e0533e3f2e",
-    "notes": "New: the info screen of a Digimon shows its vitals, trophies, fights and win rate at the top. Fixed: the Transfer item only moves real white points, new forms without a card show in Storage, up to 3 plots per player, and the Digital World button opens the open world. Requires Android 13 or newer."
+    "sha256": "646fdd1fdd50bb1e3c62d6cf9dd970f084c5130019828b10281e273fc7818ed3",
+    "notes": "New: Digimon of In-Training, Rookie and Champion change skills as often as you want, for free. A support skill (weak, no element) goes only in the fourth slot. New move pools, all DPS, and weaker support moves for these stages. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 61,
