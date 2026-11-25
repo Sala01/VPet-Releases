@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 90,
-    "versionName": "0.6.7",
+    "versionCode": 91,
+    "versionName": "0.6.8",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "0b22460590639dd68b68bd1f0c5ecaf70df3d3d7bb4e0490e664edf507d9a435",
-    "notes": "Fix: the Mini Coliseum (30000 coins) has its own name in the build menu instead of a second \"House\". Requires Android 13 or newer."
+    "sha256": "da3a78c29e570f569ff020c7a5a4944983e5265c2860a50a0907e6e0533e3f2e",
+    "notes": "New: the info screen of a Digimon shows its vitals, trophies, fights and win rate at the top. Fixed: the Transfer item only moves real white points, new forms without a card show in Storage, up to 3 plots per player, and the Digital World button opens the open world. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 61,
