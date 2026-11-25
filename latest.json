@@ -7,11 +7,11 @@
     "notes": "Fix: the Mini Coliseum (30000 coins) has its own name in the build menu instead of a second \"House\". Requires Android 13 or newer."
   },
   "watch": {
-    "versionCode": 60,
-    "versionName": "0.4.17",
+    "versionCode": 61,
+    "versionName": "0.4.18",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetWear-reloj.apk",
-    "sha256": "3c7c785e4a86d692ed4b2059327d397fd4f9de166c2b40975ed4983fa20bdafe",
-    "notes": "Training no longer gives points for free: a repetition with no exercise counts for nothing, however high the heart rate is (Repeat and Background gave Good trainings by themselves, and cancelling at once gave one). If something breaks or feels unfair, tell us in Discord with /bug."
+    "sha256": "04d1bc11ec48c7a4500cab012c7c00abbee0779b5719cce3b36eea0bda80e218",
+    "notes": "Fix: the steps of an adventure count again. The walk could stay at 0 / 1000 while encounters kept coming, because it used a rough accelerometer guess if you started it right after opening the app. It now always uses the step counter of the watch."
   },
   "phoneStore": {
     "versionCode": 90,
