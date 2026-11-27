@@ -14,8 +14,8 @@
     "notes": "Fix: the steps of an adventure count again. The walk could stay at 0 / 1000 while encounters kept coming, because it used a rough accelerometer guess if you started it right after opening the app. It now always uses the step counter of the watch."
   },
   "phoneStore": {
-    "versionCode": 92,
-    "versionName": "0.6.9",
-    "notes": "New: Digimon of In-Training, Rookie and Champion change skills as often as you want, for free. A support skill (weak, no element) goes only in the fourth slot. New move pools, all DPS, and weaker support moves for these stages. Requires Android 13 or newer."
+    "versionCode": 94,
+    "versionName": "1.0.0",
+    "notes": "New: Domains replace the old dungeons (generated floors, bosses, Digi-Beetle, domain items with random bonuses), level 100, swap what is built between your plots, other players can sell in your shop, and announce your business in the Discord. Requires Android 13 or newer."
   }
 }
