@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 92,
-    "versionName": "0.6.9",
+    "versionCode": 94,
+    "versionName": "1.0.0",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "646fdd1fdd50bb1e3c62d6cf9dd970f084c5130019828b10281e273fc7818ed3",
-    "notes": "New: Digimon of In-Training, Rookie and Champion change skills as often as you want, for free. A support skill (weak, no element) goes only in the fourth slot. New move pools, all DPS, and weaker support moves for these stages. Requires Android 13 or newer."
+    "sha256": "2b9beefc81339441005ae6c6908e510b1b83fb0074081cf3a022959bd4dd00a3",
+    "notes": "New: Domains replace the old dungeons (generated floors, bosses, Digi-Beetle, domain items with random bonuses), level 100, swap what is built between your plots, other players can sell in your shop, and announce your business in the Discord. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 61,
