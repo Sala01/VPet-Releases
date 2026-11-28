@@ -1,10 +1,10 @@
 {
   "phone": {
-    "versionCode": 95,
-    "versionName": "1.0.1",
+    "versionCode": 96,
+    "versionName": "1.0.2",
     "url": "https://github.com/Sala01/VPet-Releases/releases/latest/download/VPetFarm-telefono.apk",
-    "sha256": "3d2e247133d66608ab6f00ae7c6f2b56b5de1194de3a2f27493b5d8a86cd878c",
-    "notes": "New: Domains also open by themselves in the zones of the world (their boss has lives and, if nobody beats it in time, it breaks and attacks a city), boosts for everybody when a Domain boss falls, a new Digi-Beetle inventory with a backpack, every chest opens, wild Digimon scale with your team and more fixes. Requires Android 13 or newer."
+    "sha256": "1a14c53c73470c8bae9eaea7356d3a50b775c3229c27fb4a8ad33eca13602a83",
+    "notes": "New: equipment for your Digimon (weapon, armor, shield, shoes, helmet), potential with Glitches (up to 3 lines per piece, Rare to Legendary), merge Digi-Beetle parts, sell all of it in shops, Domains and Digi-Beetle in the menu, a portal icon with the time left, and Digimon that run and train on the farm. Requires Android 13 or newer."
   },
   "watch": {
     "versionCode": 61,
